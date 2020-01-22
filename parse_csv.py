@@ -2,6 +2,7 @@ import requests
 import csv
 import os
 from datetime import datetime
+from time import time
 
 modNomeReduzido = {
 "Ampla concorrência": "AC",
@@ -45,7 +46,7 @@ modNomeReduzido = {
 
 class Modalidade:
     def __init__(self, m):
-        self.modNome, self.vagas, self.nota, self.dataNota = m
+        self.modNome, self.vagas, self.nota, self.bonus, self.dataNota = m
 
         for k, v in modNomeReduzido.items():
             if self.modNome == k:
@@ -54,7 +55,7 @@ class Modalidade:
 
     def __str__(self):
         s = [
-             "\t{}:".format(self.modNome),
+             "\t{}{}:".format(self.modNome, " (+{}%)".format(self.bonus) if self.bonus and self.bonus != ".00" else ""),
              "\t\tVagas: {} | Nota de Corte: {}".format(self.vagas, self.nota)
             ]
 
@@ -67,13 +68,14 @@ class Curso:
         self.pesNAT, self.pesHUM, self.pesLIN, self.pesMAT, self.pesRED = l[10:15]
         self.minNAT, self.minHUM, self.minLIN, self.minMAT, self.minRED, self.minTOT = l[15:21]
 
-        self.modalidades = [Modalidade(l[i:i+4]) for i in range(21, len(l), 4)]
+        self.modalidades = [Modalidade(l[i:i+5]) for i in range(21, len(l), 5)]
 
     def __str__(self):
         s = [
              "{} ({}) - {}, {}, {}".format(self.iesNome, self.iesSG, self.campusNome, self.campusCidade, self.campusUF),
              "{}, {}, {}".format(self.cursoNome, self.cursoGrau, self.cursoTurno),
-             "Vagas: {} | Pesos: NAT={}, HUM={}, LIN={}, MAT={}, RED={} | Mínimo: NAT={}, HUM={}, LIN={}, MAT={}, RED={}, TOTAL={}".format(self.vagasTotais, self.pesNAT, self.pesHUM, self.pesLIN, self.pesMAT, self.pesRED, self.minNAT, self.minHUM, self.minLIN, self.minMAT, self.minRED, self.minTOT)
+             "Total de Vagas: {}".format(self.vagasTotais),
+             "Pesos: NAT={}, HUM={}, LIN={}, MAT={}, RED={} | Mínimo: NAT={}, HUM={}, LIN={}, MAT={}, RED={}, TOTAL={}".format(self.pesNAT, self.pesHUM, self.pesLIN, self.pesMAT, self.pesRED, self.minNAT, self.minHUM, self.minLIN, self.minMAT, self.minRED, self.minTOT)
             ]
 
         self.modalidades = sorted(self.modalidades, key=lambda x: (x.nota), reverse=True)
@@ -81,11 +83,15 @@ class Curso:
 
         return "\n".join(s+mods)
 
+t0 = time()
+
 directory = "data"
 filename = "cursos_" + str(datetime.today().day)
 
+##################################################
+
 with open(os.path.join(directory, filename + ".csv"), "r", encoding="UTF-8") as csvFile:
-    csvFileReader = csv.reader(csvFile, delimiter=';')
+    csvFileReader = csv.reader(csvFile, delimiter=";")
     cursos = [Curso(l) for l in csvFileReader]
 
 cursos = sorted(cursos, key=lambda x: (x.campusUF, x.iesNome, x.campusCidade, x.campusNome, x.cursoNome))
@@ -100,3 +106,5 @@ with open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as
             humanFile.write("="*50 + "\n")
         humanFile.write(str(curso)[nl+1:] + "\n")
         humanFile.write("\n")
+
+print("Written to '{}.txt' in {:.1f}s.".format(directory+"/"+filename, time()-t0))

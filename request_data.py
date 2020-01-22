@@ -9,18 +9,18 @@ filename = "cursos_" + str(datetime.today().day) + ".csv"
 
 baseURL = "https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/modalidades"
 
-with open("ids_cursos.txt") as f:
-    ids = [int(id_.strip()) for id_ in f.readlines() if id_]
+t0 = time()
+errors = []
 
 ##################################################
 
-t0 = time()
-errors = []
+with open("ids_cursos.txt") as f:
+    ids = [int(id_.strip()) for id_ in f.readlines() if id_]
 
 ids = sorted(list(set(ids))) # Sort and remove duplicates
 
 csvFile = open(os.path.join(directory, filename), "w+", encoding="UTF-8")
-csvFileWriter = csv.writer(csvFile,  delimiter=';', quotechar='"', quoting=csv.QUOTE_ALL, lineterminator='\n')
+csvFileWriter = csv.writer(csvFile,  delimiter=";", quotechar="\"", quoting=csv.QUOTE_ALL, lineterminator="\n")
 
 print("Reading {} responses...".format(len(ids)))
 
@@ -57,7 +57,7 @@ for id_ in ids:
     minRED = response["oferta"]["nu_nmin_r"]
     minTOT = response["oferta"]["nu_media_minima"]
 
-    modalidades = [{campo: m[campo] for campo in ["no_concorrencia", "qt_vagas", "nu_nota_corte", "dt_nota_corte"]} for m in response["modalidades"]]
+    modalidades = [{campo: m[campo] for campo in ["no_concorrencia", "qt_vagas", "nu_nota_corte", "qt_bonus_perc", "dt_nota_corte"]} for m in response["modalidades"]]
 
     print("[{}] {} ({}) - {}".format(codigo, iesNome, iesSG, cursoNome))
 
@@ -66,10 +66,13 @@ for id_ in ids:
                  campusNome, campusCidade, campusUF, iesNome, iesSG,
                  pesNAT, pesHUM, pesLIN, pesMAT, pesRED,
                  minNAT, minHUM, minLIN, minMAT, minRED, minTOT]
-    for m in modalidades: csvLine += [v for v in m.values()]
+    for m in modalidades:
+        if int(m["qt_vagas"]) > 0: # Remove modalities with no available roles
+            csvLine += [v for v in m.values()]
+    
     csvFileWriter.writerow(tuple(csvLine))
 
-print("Parsed {} responses in {:.1f}s with {} errors.".format(len(ids), time()-t0, len(errors)))
+print("Parsed {} responses to '{}' in {:.1f}s with {} errors.".format(len(ids), directory+"/"+filename, time()-t0, len(errors)))
 if errors:
     print("Errors:")
     for e in errors:
