@@ -1,8 +1,10 @@
 import requests
 import csv
+import os
 from datetime import datetime
 from time import time
 
+directory = "data"
 filename = "cursos_" + str(datetime.today().day) + ".csv"
 
 baseURL = "https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/modalidades"
@@ -17,7 +19,7 @@ errors = []
 
 ids = sorted(list(set(ids))) # Sort and remove duplicates
 
-csvFile = open(filename, "w+", encoding="UTF-8")
+csvFile = open(os.path.join(directory, filename), "w+", encoding="UTF-8")
 csvFileWriter = csv.writer(csvFile,  delimiter=';', quotechar='"', quoting=csv.QUOTE_ALL, lineterminator='\n')
 
 print("Reading {} responses...".format(len(ids)))
