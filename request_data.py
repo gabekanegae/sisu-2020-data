@@ -61,14 +61,14 @@ for id_ in ids:
 
     print("[{}] {} ({}) - {}".format(codigo, iesNome, iesSG, cursoNome))
 
-    # Write to CSV
+    # Write to .csv
     csvLine = [codigo, cursoNome, cursoGrau, cursoTurno, vagasTotais,
                  campusNome, campusCidade, campusUF, iesNome, iesSG,
                  pesNAT, pesHUM, pesLIN, pesMAT, pesRED,
                  minNAT, minHUM, minLIN, minMAT, minRED, minTOT]
     for m in modalidades:
         if int(m["qt_vagas"]) > 0: # Remove modalities with no available roles
-            csvLine += [v for v in m.values()]
+            csvLine += list(m.values())
     
     csvFileWriter.writerow(tuple(csvLine))
 
