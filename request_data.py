@@ -1,11 +1,10 @@
 import requests
 import csv
 import os
-from datetime import datetime
-from time import time
+from time import time, sleep
 
 directory = "data"
-filename = "cursos_" + str(datetime.today().day) + ".csv"
+filename = input("Filename (without extension): /{}/".format(directory))
 
 baseURL = "https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/modalidades"
 
@@ -19,13 +18,22 @@ with open("ids_cursos.txt") as f:
 
 ids = sorted(list(set(ids))) # Sort and remove duplicates
 
-csvFile = open(os.path.join(directory, filename), "w+", encoding="UTF-8")
+print("Will write to file '/{}/{}.csv'.".format(directory, filename))
+
+csvFile = open(os.path.join(directory, filename + ".csv"), "w+", encoding="UTF-8")
 csvFileWriter = csv.writer(csvFile,  delimiter=";", quotechar="\"", quoting=csv.QUOTE_ALL, lineterminator="\n")
 
 print("Reading {} responses...".format(len(ids)))
 
 for id_ in ids:
-    response = requests.get(baseURL.format(id_))
+    while True:
+        try:
+            response = requests.get(baseURL.format(id_))
+            break
+        except:
+            print("[{}] An exception occured, retrying...".format(id_))
+            sleep(1)
+
     if response.status_code != 200:
         print("[{}] Error {}".format(id_, response.status_code))
         errors.append((id_, response.status_code))
@@ -72,7 +80,7 @@ for id_ in ids:
     
     csvFileWriter.writerow(tuple(csvLine))
 
-print("Parsed {} responses to '{}' in {:.1f}s with {} errors.".format(len(ids), directory+"/"+filename, time()-t0, len(errors)))
+print("Parsed {} responses to '{}/{}.csv' in {:.1f}s with {} errors.".format(len(ids), directory, filename, time()-t0, len(errors)))
 if errors:
     print("Errors:")
     for e in errors:

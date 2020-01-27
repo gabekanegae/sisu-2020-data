@@ -1,4 +1,3 @@
-import requests
 import csv
 import os
 from datetime import datetime
@@ -129,14 +128,18 @@ class Curso:
 t0 = time()
 
 directory = "data"
-filename = "cursos_" + str(datetime.today().day)
+filename = input("Filename (without extension): /{}/".format(directory))
 
 ##################################################
 
 # Read csv and process strings (via class constructors)
-with open(os.path.join(directory, filename + ".csv"), "r", encoding="UTF-8") as csvFile:
-    csvFileReader = csv.reader(csvFile, delimiter=";")
-    cursos = [Curso(l) for l in csvFileReader]
+try:
+    with open(os.path.join(directory, filename + ".csv"), "r", encoding="UTF-8") as csvFile:
+        csvFileReader = csv.reader(csvFile, delimiter=";")
+        cursos = [Curso(l) for l in csvFileReader]
+except FileNotFoundError:
+    print("File /{}/{}.csv not found.")
+    exit()
 
 # Sort lexicographically
 cursos = sorted(cursos, key=lambda x: (x.campusUF, x.iesNome, x.campusCidade, x.campusNome, x.cursoNome))
@@ -154,4 +157,4 @@ with open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as
         humanFile.write(str(curso)[nl+1:] + "\n")
         humanFile.write("\n")
 
-print("Written to '{}.txt' in {:.1f}s.".format(directory+"/"+filename, time()-t0))
+print("Written {} courses to '{}.txt' in {:.1f}s.".format(len(cursos), directory+"/"+filename, time()-t0))
