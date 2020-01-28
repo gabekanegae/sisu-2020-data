@@ -10,9 +10,13 @@ ofertas = []
 
 response = requests.get(baseURL+"instituicoes").json()
 instituicoes = [r["co_ies"] for r in response]
-for instituicao in instituicoes:
+for i, instituicao in enumerate(instituicoes):
+    print("[{:>3}/{}] Listing ID #{}...".format(i+1, len(instituicoes), instituicao))
+
     response = requests.get(baseURL+"instituicao/"+instituicao).json()
     ofertas += [response[str(i)]["co_oferta"] for i in range(len(response)-1)]
+
+ofertas = sorted(ofertas)
 
 with open(filename + ".txt", "w+", encoding="UTF-8") as f:
     f.write("\n".join(ofertas))
