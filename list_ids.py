@@ -1,18 +1,20 @@
 import requests
+from time import time
 
-baseURL = "https://sisu-api.apps.mec.gov.br/api/v1/oferta/{}/modalidades"
+baseURL = "https://sisu-api.apps.mec.gov.br/api/v1/oferta/"
 
-# <100k     - probably doesn't exist
-# 100k-141k - checked and listed
-# >141k     - probably doesn't exist
+filename = "ids_cursos"
 
-a, b = 100000, 141000
+t0 = time()
+ofertas = []
 
-f = open("ids_cursos.txt", "w+", encoding="UTF-8")
-for i in range(a, b):
-    if i % 100 == 0: print("Testing {}-{}...".format(i, i+99))
-    response = requests.get(baseURL.format(i))
-    if response.status_code != 204:
-        f.write(str(i) + "\n")
-        print(i)
-    i += 1
+response = requests.get(baseURL+"instituicoes").json()
+instituicoes = [r["co_ies"] for r in response]
+for instituicao in instituicoes:
+    response = requests.get(baseURL+"instituicao/"+instituicao).json()
+    ofertas += [response[str(i)]["co_oferta"] for i in range(len(response)-1)]
+
+with open(filename + ".txt", "w+", encoding="UTF-8") as f:
+    f.write("\n".join(ofertas))
+
+print("written {} valid IDs to '{}.txt' in {:.1f}s.".format(len(ofertas), filename, time()-t0))
