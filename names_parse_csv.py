@@ -94,7 +94,7 @@ modNomeReduzido = {
 
 class Aluno:
     def __init__(self, m):
-        self.codigo, self.nome, self.posicao, self.nota, self.modNome = m
+        self.codigo, self.nome, self.posicao, self.nota, self.modNome, self.bonus = m
 
         # Reduces modality names based on the modNomeReduzido dict
         for k, v in modNomeReduzido.items():
@@ -113,7 +113,7 @@ class Aluno:
 class Curso:
     def __init__(self, l):
         self.codigo = l[0]
-        self.alunos = [Aluno(l[i:i+5]) for i in range(1, len(l), 5)]
+        self.alunos = [Aluno(l[i:i+6]) for i in range(1, len(l), 6)]
 
     def __str__(self):
         s = [
@@ -144,14 +144,14 @@ try:
         csvFileReader = csv.reader(csvFile, delimiter=";")
         cursos = [Curso(l) for l in csvFileReader]
 except FileNotFoundError:
-    print("File /{}/{}.csv not found.")
+    print("File /{}/{}.csv not found.".format(directory, filename))
     exit()
 
 # Sort lexicographically
 cursos = sorted(cursos, key=lambda x: (x.codigo))
 
-# Write to .tx
-twith open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as humanFile:
+# Write to .txt
+with open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as humanFile:
     for i, curso in enumerate(cursos):
         humanFile.write(str(curso) + "\n")
 

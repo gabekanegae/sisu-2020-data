@@ -47,8 +47,9 @@ for id_ in ids:
         classificacao = r["nu_classificacao"]
         nota = r["nu_nota_candidato"]
         modalidade = r["no_mod_concorrencia"]
+        bonus = r["qt_bonus_perc"]
 
-        csvLine += [codigo_aluno, nome, classificacao, nota, modalidade]
+        csvLine += [codigo_aluno, nome, classificacao, nota, modalidade, bonus]
 
     print("[{}]".format(id_))
     # print("[{}] {} ({}) - {}".format(codigo, iesNome, iesSG, cursoNome))
