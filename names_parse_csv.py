@@ -92,9 +92,9 @@ modNomeReduzido = {
 "com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o ensino médio em escolas públicas. (L1)": "RENDA + EP"
 }
 
-class Modalidade:
+class Aluno:
     def __init__(self, m):
-        self.modNome, self.vagas, self.nota, self.bonus, self.dataNota = m
+        self.codigo, self.nome, self.posicao, self.nota, self.modNome = m
 
         # Reduces modality names based on the modNomeReduzido dict
         for k, v in modNomeReduzido.items():
@@ -104,40 +104,37 @@ class Modalidade:
 
     def __str__(self):
         s = [
-             "\t{}{}:".format(self.modNome, " (+{}%)".format(self.bonus) if self.bonus and self.bonus != ".00" else ""),
-             "\t\tVagas: {} | Nota de Corte: {}".format(self.vagas, self.nota)
+             "{}:".format(self.modNome),
+             "\t{:>3}: {:>6} - {}".format(self.posicao, self.nota, self.nome)
             ]
 
         return "\n".join(s)
 
 class Curso:
     def __init__(self, l):
-        self.codigo, self.cursoNome, self.cursoGrau, self.cursoTurno, self.vagasTotais = l[:5]
-        self.campusNome, self.campusCidade, self.campusUF, self.iesNome, self.iesSG = l[5:10]
-        self.pesNAT, self.pesHUM, self.pesLIN, self.pesMAT, self.pesRED = l[10:15]
-        self.minNAT, self.minHUM, self.minLIN, self.minMAT, self.minRED, self.minTOT = l[15:21]
-
-        self.modalidades = [Modalidade(l[i:i+5]) for i in range(21, len(l), 5)]
+        self.codigo = l[0]
+        self.alunos = [Aluno(l[i:i+5]) for i in range(1, len(l), 5)]
 
     def __str__(self):
         s = [
-             "{} ({}) - {}, {}, {}".format(self.iesNome, self.iesSG, self.campusNome, self.campusCidade, self.campusUF),
-             "{}, {}, {}".format(self.cursoNome, self.cursoGrau, self.cursoTurno),
-             "Total de Vagas: {}".format(self.vagasTotais),
-             "Pesos: NAT={}, HUM={}, LIN={}, MAT={}, RED={} | Mínimo: NAT={}, HUM={}, LIN={}, MAT={}, RED={}, TOTAL={}".format(self.pesNAT, self.pesHUM, self.pesLIN, self.pesMAT, self.pesRED, self.minNAT, self.minHUM, self.minLIN, self.minMAT, self.minRED, self.minTOT)
+             "[{}]".format(self.codigo)
+             # "{} ({}) - {}, {}, {}".format(self.iesNome, self.iesSG, self.campusNome, self.campusCidade, self.campusUF),
             ]
 
-        # Sort by grade needed
-        self.modalidades = sorted(self.modalidades, key=lambda x: (x.nota, x.modNome), reverse=True)
+        als = [str(m) for m in self.alunos]
+        last = als[0].split("\n")[0]
+        for i in range(1, len(als)):
+            if als[i].split("\n")[0] == last:
+                als[i] = als[i].split("\n")[1]
+            else:
+                last = als[i].split("\n")[0]
 
-        mods = [str(m) for m in self.modalidades]
-
-        return "\n".join(s+mods)
+        return "\n".join(s+als)
 
 t0 = time()
 
 directory = "data"
-filename = input("Filename (without extension): /{}/".format(directory))
+filename = input("Filename (without extension): /{}/".format(directory)).strip()
 
 ##################################################
 
@@ -147,23 +144,15 @@ try:
         csvFileReader = csv.reader(csvFile, delimiter=";")
         cursos = [Curso(l) for l in csvFileReader]
 except FileNotFoundError:
-    print("File /{}/{}.csv not found.".format(directory, filename))
+    print("File /{}/{}.csv not found.")
     exit()
 
 # Sort lexicographically
-cursos = sorted(cursos, key=lambda x: (x.campusUF, x.iesNome, x.campusCidade, x.campusNome, x.cursoNome))
+cursos = sorted(cursos, key=lambda x: (x.codigo))
 
-# Write to .txt
-with open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as humanFile:
+# Write to .tx
+twith open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as humanFile:
     for i, curso in enumerate(cursos):
-        nl = str(curso).index("\n")
-
-        # Only write iesNome if it's the first occurence
-        if i == 0 or (str(curso)[:nl] != str(cursos[i-1]).split("\n")[0]):
-            humanFile.write("="*50 + "\n")
-            humanFile.write(str(curso)[:nl] + "\n")
-            humanFile.write("="*50 + "\n")
-        humanFile.write(str(curso)[nl+1:] + "\n")
-        humanFile.write("\n")
+        humanFile.write(str(curso) + "\n")
 
 print("Written {} courses to '{}.txt' in {:.1f}s.".format(len(cursos), directory+"/"+filename, time()-t0))

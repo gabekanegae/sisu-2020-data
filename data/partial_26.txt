@@ -10069,13 +10069,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=100.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=400.00, TOTAL=280.00
 	AC:
 		Vagas: 20 | Nota de Corte: 666.49
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 662.88
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 626.54
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 587.70
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 550.14
 
 AGRONOMIA, Bacharelado, Integral
@@ -10083,13 +10083,13 @@ Total de Vagas: 42
 Pesos: NAT=5.00, HUM=4.00, LIN=4.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 647.67
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 634.93
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 602.86
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 553.27
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 540.56
 
 CIÊNCIAS BIOLÓGICAS, Bacharelado, Integral
@@ -10097,13 +10097,13 @@ Total de Vagas: 22
 Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=500.00, TOTAL=460.00
 	AC:
 		Vagas: 10 | Nota de Corte: 665.95
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 645.25
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 608.37
-	membros de grupos indígenas:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: .00
-	membros de comunidade quilombola:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Integral
@@ -10111,13 +10111,13 @@ Total de Vagas: 28
 Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=500.00, TOTAL=460.00
 	AC:
 		Vagas: 13 | Nota de Corte: 658.26
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 647.90
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 11 | Nota de Corte: 600.47
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 589.24
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
@@ -10125,13 +10125,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=400.00, TOTAL=81.00
 	AC:
 		Vagas: 20 | Nota de Corte: 661.99
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 650.99
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 622.28
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 592.67
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 540.81
 
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
@@ -10139,13 +10139,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=400.00, TOTAL=81.00
 	AC:
 		Vagas: 20 | Nota de Corte: 681.17
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 664.45
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 615.60
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 570.01
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 467.50
 
 DIREITO, Bacharelado, Noturno
@@ -10153,13 +10153,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=100.00, HUM=200.00, LIN=300.00, MAT=100.00, RED=300.00, TOTAL=200.00
 	AC:
 		Vagas: 20 | Nota de Corte: 734.85
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 719.50
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 678.70
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 663.05
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 629.66
 
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
@@ -10167,13 +10167,13 @@ Total de Vagas: 42
 Pesos: NAT=5.00, HUM=3.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=200.00, TOTAL=41.00
 	AC:
 		Vagas: 20 | Nota de Corte: 624.22
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 615.23
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 593.09
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 589.16
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 559.87
 
 ENFERMAGEM, Bacharelado, Integral
@@ -10181,13 +10181,13 @@ Total de Vagas: 42
 Pesos: NAT=5.00, HUM=3.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=450.00, TOTAL=450.00
 	AC:
 		Vagas: 20 | Nota de Corte: 687.60
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 666.07
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 636.30
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 624.67
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 587.59
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -10195,13 +10195,13 @@ Total de Vagas: 42
 Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=4.00 | Mínimo: NAT=300.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=400.00, TOTAL=320.00
 	AC:
 		Vagas: 20 | Nota de Corte: 696.61
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 675.21
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 637.12
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 598.96
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 574.86
 
 ENGENHARIA DE ALIMENTOS, Bacharelado, Integral
@@ -10209,13 +10209,13 @@ Total de Vagas: 42
 Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=5.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=300.00, TOTAL=61.00
 	AC:
 		Vagas: 20 | Nota de Corte: 647.67
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 609.62
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 589.36
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 561.24
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 507.00
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
@@ -10223,13 +10223,13 @@ Total de Vagas: 42
 Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 700.01
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 679.88
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 629.95
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 592.96
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 490.69
 
 FILOSOFIA, Licenciatura, Noturno
@@ -10237,13 +10237,13 @@ Total de Vagas: 32
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 15 | Nota de Corte: 636.78
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 623.19
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 597.06
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 595.74
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 527.62
 
 FILOSOFIA, Bacharelado, Noturno
@@ -10251,13 +10251,13 @@ Total de Vagas: 17
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 7 | Nota de Corte: 641.48
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 623.48
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 7 | Nota de Corte: 598.00
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 560.74
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Bacharelado, Integral
@@ -10265,13 +10265,13 @@ Total de Vagas: 20
 Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=5.00 | Mínimo: NAT=400.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=300.00, TOTAL=300.00
 	AC:
 		Vagas: 9 | Nota de Corte: 688.78
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 664.87
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 591.77
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 507.12
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Integral
@@ -10279,13 +10279,13 @@ Total de Vagas: 30
 Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=5.00 | Mínimo: NAT=300.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=300.00, TOTAL=300.00
 	AC:
 		Vagas: 14 | Nota de Corte: 659.74
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 623.90
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 601.04
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 588.90
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 488.84
 
 GEOGRAFIA, Bacharelado, Integral
@@ -10293,13 +10293,13 @@ Total de Vagas: 17
 Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 7 | Nota de Corte: 649.82
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 610.80
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 7 | Nota de Corte: 596.22
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 536.15
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 GEOGRAFIA, Licenciatura, Integral
@@ -10307,13 +10307,13 @@ Total de Vagas: 32
 Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 15 | Nota de Corte: 625.19
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 622.73
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 605.57
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 598.86
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 455.57
 
 HISTÓRIA, Licenciatura, Integral
@@ -10321,13 +10321,13 @@ Total de Vagas: 42
 Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 20 | Nota de Corte: 656.75
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 650.97
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 621.15
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 605.57
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - ESPANHOL, Licenciatura, Integral
@@ -10335,13 +10335,13 @@ Total de Vagas: 22
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 10 | Nota de Corte: 640.07
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 604.22
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 598.69
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 586.13
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 499.01
 
 LETRAS - FRANCÊS, Licenciatura, Integral
@@ -10349,13 +10349,13 @@ Total de Vagas: 17
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 7 | Nota de Corte: 638.41
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 603.94
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 7 | Nota de Corte: 586.70
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 516.11
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 511.23
 
 LETRAS - INGLÊS, Licenciatura, Integral
@@ -10363,13 +10363,13 @@ Total de Vagas: 22
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 10 | Nota de Corte: 674.58
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 664.81
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 629.08
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 563.22
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 524.38
 
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Integral
@@ -10377,13 +10377,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 651.28
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 647.20
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 617.79
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 586.13
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 506.25
 
 MATEMÁTICA, Licenciatura, Integral
@@ -10391,13 +10391,13 @@ Total de Vagas: 42
 Pesos: NAT=3.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=5.00 | Mínimo: NAT=200.00, HUM=200.00, LIN=200.00, MAT=200.00, RED=200.00, TOTAL=200.00
 	AC:
 		Vagas: 20 | Nota de Corte: 665.61
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 664.49
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 628.75
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 600.16
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 457.77
 
 MÚSICA, Licenciatura, Integral
@@ -10405,13 +10405,13 @@ Total de Vagas: 25
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=250.00, TOTAL=58.00
 	AC:
 		Vagas: 11 | Nota de Corte: 650.21
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 616.13
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 10 | Nota de Corte: 605.24
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 559.85
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 556.71
 
 ODONTOLOGIA, Bacharelado, Integral
@@ -10419,13 +10419,13 @@ Total de Vagas: 32
 Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=450.00, TOTAL=450.00
 	AC:
 		Vagas: 15 | Nota de Corte: 721.62
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 708.61
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 675.19
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 664.81
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 643.37
 
 PEDAGOGIA, Licenciatura, Integral
@@ -10433,13 +10433,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 636.55
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 614.36
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 604.30
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 595.44
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 493.20
 
 PSICOLOGIA, Bacharelado, Integral
@@ -10447,13 +10447,13 @@ Total de Vagas: 32
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=400.00, TOTAL=80.00
 	AC:
 		Vagas: 15 | Nota de Corte: 717.77
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 692.79
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 662.83
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 625.10
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 621.17
 
 QUÍMICA, Licenciatura, Noturno
@@ -10461,13 +10461,13 @@ Total de Vagas: 32
 Pesos: NAT=5.00, HUM=3.00, LIN=5.00, MAT=5.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=200.00, TOTAL=41.00
 	AC:
 		Vagas: 15 | Nota de Corte: 644.84
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 621.15
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 609.94
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 587.33
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 511.41
 
 ==================================================

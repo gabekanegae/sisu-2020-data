@@ -10422,13 +10422,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=100.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=400.00, TOTAL=280.00
 	AC:
 		Vagas: 20 | Nota de Corte: 658.43
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 640.04
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 624.94
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 587.70
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 550.14
 
 AGRONOMIA, Bacharelado, Integral
@@ -10436,13 +10436,13 @@ Total de Vagas: 42
 Pesos: NAT=5.00, HUM=4.00, LIN=4.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 633.51
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 626.51
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 589.85
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 586.14
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 528.43
 
 CIÊNCIAS BIOLÓGICAS, Bacharelado, Integral
@@ -10450,27 +10450,27 @@ Total de Vagas: 22
 Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=500.00, TOTAL=460.00
 	AC:
 		Vagas: 10 | Nota de Corte: 657.79
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 644.76
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 600.26
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 566.66
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Integral
 Total de Vagas: 28
 Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=500.00, TOTAL=460.00
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 647.90
 	AC:
 		Vagas: 13 | Nota de Corte: 643.35
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 602.68
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 11 | Nota de Corte: 590.13
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 584.41
 
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
@@ -10478,13 +10478,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=400.00, TOTAL=81.00
 	AC:
 		Vagas: 20 | Nota de Corte: 658.10
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 647.34
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 617.80
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 610.07
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 540.81
 
 CIÊNCIAS ECONÔMICAS, Bacharelado, Noturno
@@ -10492,13 +10492,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=400.00, TOTAL=81.00
 	AC:
 		Vagas: 20 | Nota de Corte: 651.23
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 648.72
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 619.11
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 570.01
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 467.50
 
 DIREITO, Bacharelado, Noturno
@@ -10506,13 +10506,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=100.00, HUM=200.00, LIN=300.00, MAT=100.00, RED=300.00, TOTAL=200.00
 	AC:
 		Vagas: 20 | Nota de Corte: 734.85
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 710.25
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 674.88
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 663.05
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 629.66
 
 EDUCAÇÃO FÍSICA, Licenciatura, Integral
@@ -10520,13 +10520,13 @@ Total de Vagas: 42
 Pesos: NAT=5.00, HUM=3.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=200.00, TOTAL=41.00
 	AC:
 		Vagas: 20 | Nota de Corte: 624.68
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 614.52
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 589.57
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 589.16
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 567.30
 
 ENFERMAGEM, Bacharelado, Integral
@@ -10534,13 +10534,13 @@ Total de Vagas: 42
 Pesos: NAT=5.00, HUM=3.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=450.00, TOTAL=450.00
 	AC:
 		Vagas: 20 | Nota de Corte: 683.61
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 663.18
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 634.86
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 553.16
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 520.02
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -10548,13 +10548,13 @@ Total de Vagas: 42
 Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=4.00 | Mínimo: NAT=300.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=400.00, TOTAL=320.00
 	AC:
 		Vagas: 20 | Nota de Corte: 693.11
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 660.82
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 638.37
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 598.96
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 548.29
 
 ENGENHARIA DE ALIMENTOS, Bacharelado, Integral
@@ -10562,13 +10562,13 @@ Total de Vagas: 42
 Pesos: NAT=4.00, HUM=3.00, LIN=4.00, MAT=5.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=300.00, TOTAL=61.00
 	AC:
 		Vagas: 20 | Nota de Corte: 628.86
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 617.61
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 592.15
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 541.85
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 507.00
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
@@ -10576,27 +10576,27 @@ Total de Vagas: 42
 Pesos: NAT=4.00, HUM=2.00, LIN=5.00, MAT=5.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 693.40
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 673.49
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 624.37
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 509.52
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 504.84
 
 FILOSOFIA, Licenciatura, Noturno
 Total de Vagas: 32
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 632.97
 	AC:
 		Vagas: 15 | Nota de Corte: 615.15
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 595.74
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 589.07
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 527.62
 
 FILOSOFIA, Bacharelado, Noturno
@@ -10604,13 +10604,13 @@ Total de Vagas: 17
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 7 | Nota de Corte: 629.42
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 623.48
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 7 | Nota de Corte: 587.21
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 560.74
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Bacharelado, Integral
@@ -10618,13 +10618,13 @@ Total de Vagas: 20
 Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=5.00 | Mínimo: NAT=400.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=300.00, TOTAL=300.00
 	AC:
 		Vagas: 9 | Nota de Corte: 672.44
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 664.87
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 587.36
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 517.94
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Integral
@@ -10632,13 +10632,13 @@ Total de Vagas: 30
 Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=5.00 | Mínimo: NAT=300.00, HUM=300.00, LIN=300.00, MAT=300.00, RED=300.00, TOTAL=300.00
 	AC:
 		Vagas: 14 | Nota de Corte: 628.93
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 624.63
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 585.26
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 511.47
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 488.84
 
 GEOGRAFIA, Bacharelado, Integral
@@ -10646,27 +10646,27 @@ Total de Vagas: 17
 Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 7 | Nota de Corte: 612.75
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 602.93
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 7 | Nota de Corte: 584.42
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 536.15
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: .00
 
 GEOGRAFIA, Licenciatura, Integral
 Total de Vagas: 32
 Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 622.73
 	AC:
 		Vagas: 15 | Nota de Corte: 622.13
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 594.87
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 553.40
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 471.76
 
 HISTÓRIA, Licenciatura, Integral
@@ -10674,13 +10674,13 @@ Total de Vagas: 42
 Pesos: NAT=3.00, HUM=5.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=400.00, HUM=400.00, LIN=400.00, MAT=400.00, RED=400.00, TOTAL=400.00
 	AC:
 		Vagas: 20 | Nota de Corte: 661.16
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 656.32
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 617.90
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 605.57
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 557.82
 
 LETRAS - ESPANHOL, Licenciatura, Integral
@@ -10688,13 +10688,13 @@ Total de Vagas: 22
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 10 | Nota de Corte: 625.86
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 611.83
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 590.92
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 544.30
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 502.13
 
 LETRAS - FRANCÊS, Licenciatura, Integral
@@ -10702,13 +10702,13 @@ Total de Vagas: 17
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 7 | Nota de Corte: 628.28
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 7 | Nota de Corte: 587.35
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 1 | Nota de Corte: 584.70
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 511.23
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 487.64
 
 LETRAS - INGLÊS, Licenciatura, Integral
@@ -10716,13 +10716,13 @@ Total de Vagas: 22
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 10 | Nota de Corte: 664.08
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 623.95
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 8 | Nota de Corte: 623.47
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 591.03
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 521.69
 
 LETRAS - LÍNGUA PORTUGUESA, Licenciatura, Integral
@@ -10730,13 +10730,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=3.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 647.77
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 633.77
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 605.05
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 586.13
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 470.34
 
 MATEMÁTICA, Licenciatura, Integral
@@ -10744,13 +10744,13 @@ Total de Vagas: 42
 Pesos: NAT=3.00, HUM=2.00, LIN=3.00, MAT=5.00, RED=5.00 | Mínimo: NAT=200.00, HUM=200.00, LIN=200.00, MAT=200.00, RED=200.00, TOTAL=200.00
 	AC:
 		Vagas: 20 | Nota de Corte: 661.43
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 658.68
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 615.08
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 548.86
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 485.13
 
 MÚSICA, Licenciatura, Integral
@@ -10758,13 +10758,13 @@ Total de Vagas: 25
 Pesos: NAT=2.00, HUM=4.00, LIN=5.00, MAT=2.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=250.00, TOTAL=58.00
 	AC:
 		Vagas: 11 | Nota de Corte: 639.90
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 2 | Nota de Corte: 615.20
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 10 | Nota de Corte: 604.23
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 556.71
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 502.84
 
 ODONTOLOGIA, Bacharelado, Integral
@@ -10772,13 +10772,13 @@ Total de Vagas: 32
 Pesos: NAT=5.00, HUM=2.00, LIN=5.00, MAT=3.00, RED=4.00 | Mínimo: NAT=450.00, HUM=450.00, LIN=450.00, MAT=450.00, RED=450.00, TOTAL=450.00
 	AC:
 		Vagas: 15 | Nota de Corte: 722.54
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 706.79
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 666.88
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 664.81
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 602.03
 
 PEDAGOGIA, Licenciatura, Integral
@@ -10786,13 +10786,13 @@ Total de Vagas: 42
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00, TOTAL=1.00
 	AC:
 		Vagas: 20 | Nota de Corte: 626.72
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 4 | Nota de Corte: 614.36
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 16 | Nota de Corte: 601.54
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 595.44
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 495.88
 
 PSICOLOGIA, Bacharelado, Integral
@@ -10800,13 +10800,13 @@ Total de Vagas: 32
 Pesos: NAT=2.00, HUM=5.00, LIN=5.00, MAT=4.00, RED=5.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=400.00, TOTAL=80.00
 	AC:
 		Vagas: 15 | Nota de Corte: 709.92
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 691.19
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 655.60
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 621.17
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 553.62
 
 QUÍMICA, Licenciatura, Noturno
@@ -10814,13 +10814,13 @@ Total de Vagas: 32
 Pesos: NAT=5.00, HUM=3.00, LIN=5.00, MAT=5.00, RED=4.00 | Mínimo: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=200.00, TOTAL=41.00
 	AC:
 		Vagas: 15 | Nota de Corte: 636.31
-	que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública:
+	EP:
 		Vagas: 3 | Nota de Corte: 621.15
-	membros de comunidade quilombola:
+	QUILOMBOLA:
 		Vagas: 1 | Nota de Corte: 587.33
-	que se declararem negros que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública seguindo a ordem de classificação:
+	PRETO/PARDO + EP:
 		Vagas: 12 | Nota de Corte: 581.04
-	membros de grupos indígenas:
+	INDIGENA:
 		Vagas: 1 | Nota de Corte: 501.86
 
 ==================================================
@@ -33872,17 +33872,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 686.99
 	AC:
 		Vagas: 7 | Nota de Corte: 686.99
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 576.12
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 572.24
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 562.10
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 500.38
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 467.08
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
@@ -33892,17 +33892,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 669.00
 	AC:
 		Vagas: 7 | Nota de Corte: 669.00
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 607.98
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 571.30
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 552.14
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 386.00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 SERVIÇO SOCIAL, Bacharelado, Noturno
@@ -33912,17 +33912,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 6 | Nota de Corte: 654.58
 	AC:
 		Vagas: 6 | Nota de Corte: 654.58
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 5 | Nota de Corte: 549.08
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 4 | Nota de Corte: 546.34
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 409.66
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -33935,17 +33935,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 671.07
 	AC:
 		Vagas: 10 | Nota de Corte: 671.07
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 580.78
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 548.98
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 473.04
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 452.38
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -33955,15 +33955,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 654.97
 	AC:
 		Vagas: 20 | Nota de Corte: 654.97
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 13 | Nota de Corte: 577.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 17 | Nota de Corte: 541.18
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 521.98
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 505.46
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 452.46
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
@@ -33978,15 +33978,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 756.26
 	AC:
 		Vagas: 10 | Nota de Corte: 756.26
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 660.32
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 619.38
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 590.70
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 508.92
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 508.28
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -33998,15 +33998,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 765.74
 	AC:
 		Vagas: 10 | Nota de Corte: 765.74
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 653.26
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 642.94
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 603.38
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 552.38
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 487.30
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34018,17 +34018,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 745.61
 	AC:
 		Vagas: 10 | Nota de Corte: 745.61
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 629.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 588.16
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 558.84
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 543.72
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 537.20
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 469.82
 
 DESIGN DE MODA, Bacharelado, Vespertino
@@ -34038,17 +34038,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 768.68
 	AC:
 		Vagas: 10 | Nota de Corte: 768.68
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 654.92
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 621.42
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 611.08
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 547.06
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 536.66
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 518.94
 
 DESIGN DE PRODUTO, Bacharelado, Matutino
@@ -34058,17 +34058,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 774.23
 	AC:
 		Vagas: 10 | Nota de Corte: 774.23
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 635.92
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 598.30
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 590.98
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 562.48
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 328.78
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 DESIGN DE PRODUTO, Bacharelado, Noturno
@@ -34078,15 +34078,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 771.47
 	AC:
 		Vagas: 10 | Nota de Corte: 771.47
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 619.90
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 608.64
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 498.48
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 489.18
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 472.14
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34098,17 +34098,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 800.75
 	AC:
 		Vagas: 10 | Nota de Corte: 800.75
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 661.96
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 625.40
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 606.42
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 584.98
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 580.12
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 520.94
 
 DESIGN GRÁFICO, Bacharelado, Noturno
@@ -34118,15 +34118,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 792.79
 	AC:
 		Vagas: 10 | Nota de Corte: 792.79
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 663.84
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 627.88
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 608.82
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 588.56
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 563.06
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 537.84
@@ -34141,15 +34141,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 715.53
 	AC:
 		Vagas: 20 | Nota de Corte: 715.53
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 610.20
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 579.18
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 514.94
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 507.88
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 493.22
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: 459.50
@@ -34161,15 +34161,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 684.73
 	AC:
 		Vagas: 20 | Nota de Corte: 684.73
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 587.26
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 576.86
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 534.66
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 518.60
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 367.16
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
@@ -34181,17 +34181,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 710.40
 	AC:
 		Vagas: 20 | Nota de Corte: 710.40
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 603.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 583.46
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 569.36
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 508.24
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: 507.70
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 504.74
 
 ==================================================
@@ -34204,17 +34204,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 729.45
 	AC:
 		Vagas: 10 | Nota de Corte: 729.45
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 625.80
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 602.52
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 595.52
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 586.68
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 548.68
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 521.74
 
 GESTÃO PÚBLICA, Tecnológico, Noturno
@@ -34224,15 +34224,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 748.14
 	AC:
 		Vagas: 10 | Nota de Corte: 748.14
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 621.14
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 604.74
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 576.34
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 573.18
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 518.76
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 484.10
@@ -34244,15 +34244,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 758.52
 	AC:
 		Vagas: 10 | Nota de Corte: 758.52
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 626.92
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 600.60
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 501.28
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 500.16
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 434.64
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34267,17 +34267,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 680.14
 	AC:
 		Vagas: 10 | Nota de Corte: 680.14
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 604.44
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 532.36
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -34287,17 +34287,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 645.66
 	AC:
 		Vagas: 10 | Nota de Corte: 645.66
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 570.70
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 511.68
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 473.28
-	Categoria VI - Pessoas com deficiência:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 PROCESSOS GERENCIAIS, Tecnológico, Noturno
@@ -34307,17 +34307,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 653.82
 	AC:
 		Vagas: 10 | Nota de Corte: 653.82
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 559.78
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 523.60
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 517.92
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -34330,15 +34330,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 14 | Nota de Corte: 694.07
 	AC:
 		Vagas: 14 | Nota de Corte: 694.07
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 10 | Nota de Corte: 593.48
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 13 | Nota de Corte: 556.96
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 490.20
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 470.60
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34350,18 +34350,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 666.82
 	AC:
 		Vagas: 11 | Nota de Corte: 666.82
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 568.76
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 504.18
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
 
 GEOGRAFIA, Licenciatura, Noturno
 Total de Vagas: 23
@@ -34370,17 +34370,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 627.94
 	AC:
 		Vagas: 7 | Nota de Corte: 627.94
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 564.16
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 511.08
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 HISTÓRIA, Licenciatura, Noturno
@@ -34390,17 +34390,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 688.34
 	AC:
 		Vagas: 10 | Nota de Corte: 688.34
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 571.04
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 556.10
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 553.48
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Noturno
@@ -34410,17 +34410,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 12 | Nota de Corte: 667.37
 	AC:
 		Vagas: 12 | Nota de Corte: 667.37
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 7 | Nota de Corte: 556.22
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 9 | Nota de Corte: 528.92
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 496.94
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 MATEMÁTICA, Licenciatura, Noturno
@@ -34430,17 +34430,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 671.05
 	AC:
 		Vagas: 10 | Nota de Corte: 671.05
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 556.10
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 515.20
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -34450,17 +34450,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 636.55
 	AC:
 		Vagas: 10 | Nota de Corte: 636.55
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 555.14
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 485.08
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 SERVIÇO SOCIAL, Bacharelado, Noturno
@@ -34470,15 +34470,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 638.96
 	AC:
 		Vagas: 10 | Nota de Corte: 638.96
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 563.94
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 524.56
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 521.24
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 503.64
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34490,17 +34490,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 665.83
 	AC:
 		Vagas: 10 | Nota de Corte: 665.83
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 579.48
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 513.58
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 513.40
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 TURISMO, Bacharelado, Noturno
@@ -34510,17 +34510,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 4 | Nota de Corte: 678.34
 	AC:
 		Vagas: 4 | Nota de Corte: 678.34
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 576.92
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 552.72
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 512.10
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 421.18
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -34533,17 +34533,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 695.91
 	AC:
 		Vagas: 10 | Nota de Corte: 695.91
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 603.84
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 570.30
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 447.46
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
@@ -34553,17 +34553,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 691.73
 	AC:
 		Vagas: 10 | Nota de Corte: 691.73
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 605.50
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 544.22
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 480.30
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -34573,17 +34573,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 629.79
 	AC:
 		Vagas: 10 | Nota de Corte: 629.79
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 558.64
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 498.36
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 SERVIÇO SOCIAL, Bacharelado, Noturno
@@ -34593,17 +34593,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 646.39
 	AC:
 		Vagas: 7 | Nota de Corte: 646.39
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 561.70
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 534.06
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -34616,15 +34616,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 786.81
 	AC:
 		Vagas: 11 | Nota de Corte: 786.81
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 675.98
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 650.30
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 648.82
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 632.88
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 522.22
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 517.48
@@ -34636,15 +34636,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 778.90
 	AC:
 		Vagas: 11 | Nota de Corte: 778.90
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 674.36
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 640.52
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 602.74
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 590.52
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 545.08
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 502.38
@@ -34659,15 +34659,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 701.34
 	AC:
 		Vagas: 10 | Nota de Corte: 701.34
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 608.38
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 548.24
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 545.36
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 517.68
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 421.74
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34679,15 +34679,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 747.43
 	AC:
 		Vagas: 7 | Nota de Corte: 747.43
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 623.78
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 601.50
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 541.32
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 535.40
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 444.08
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34699,17 +34699,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 762.86
 	AC:
 		Vagas: 7 | Nota de Corte: 762.86
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 647.44
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 631.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 610.64
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 571.50
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 509.94
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 486.48
 
 EDUCAÇÃO FÍSICA, Licenciatura, Noturno
@@ -34719,15 +34719,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 709.14
 	AC:
 		Vagas: 10 | Nota de Corte: 709.14
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 601.52
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 568.02
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 558.10
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 552.70
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 481.18
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 471.06
@@ -34739,15 +34739,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 728.69
 	AC:
 		Vagas: 10 | Nota de Corte: 728.69
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 609.30
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 580.22
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 487.94
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 466.72
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 451.60
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -34759,15 +34759,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 777.91
 	AC:
 		Vagas: 10 | Nota de Corte: 777.91
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 666.98
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 635.46
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 570.04
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 543.24
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 538.76
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 523.18
@@ -34779,17 +34779,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 753.50
 	AC:
 		Vagas: 10 | Nota de Corte: 753.50
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 622.12
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 595.02
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 583.14
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 404.40
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 240.16
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA CIVIL, Bacharelado, Noturno
@@ -34799,17 +34799,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 764.34
 	AC:
 		Vagas: 10 | Nota de Corte: 764.34
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 649.80
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 603.38
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 596.82
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 569.88
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 565.30
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 536.32
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Matutino
@@ -34819,17 +34819,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 755.41
 	AC:
 		Vagas: 10 | Nota de Corte: 755.41
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 629.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 576.02
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 532.00
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Noturno
@@ -34839,17 +34839,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 758.15
 	AC:
 		Vagas: 10 | Nota de Corte: 758.15
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 636.48
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 611.80
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 526.28
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 515.02
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 421.20
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Matutino
@@ -34859,17 +34859,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 710.65
 	AC:
 		Vagas: 10 | Nota de Corte: 710.65
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 617.00
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 584.78
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 543.50
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 449.58
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Noturno
@@ -34879,17 +34879,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 754.10
 	AC:
 		Vagas: 10 | Nota de Corte: 754.10
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 647.62
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 593.80
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 537.98
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 FISIOTERAPIA, Bacharelado, Vespertino
@@ -34899,17 +34899,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 786.67
 	AC:
 		Vagas: 10 | Nota de Corte: 786.67
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 672.18
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 635.36
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 584.26
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 582.14
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 558.14
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 525.92
 
 HISTÓRIA, Licenciatura, Noturno
@@ -34919,17 +34919,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 731.56
 	AC:
 		Vagas: 10 | Nota de Corte: 731.56
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 632.12
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 591.70
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 507.24
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 489.84
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS E INGLÊS, Licenciatura, Noturno
@@ -34939,17 +34939,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 721.88
 	AC:
 		Vagas: 10 | Nota de Corte: 721.88
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 604.92
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 585.40
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 518.32
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 485.36
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 MATEMÁTICA, Licenciatura, Noturno
@@ -34959,17 +34959,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 732.94
 	AC:
 		Vagas: 10 | Nota de Corte: 732.94
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 587.30
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 564.12
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Matutino
@@ -34979,17 +34979,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 674.02
 	AC:
 		Vagas: 10 | Nota de Corte: 674.02
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 573.76
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 534.40
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 491.76
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 459.38
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -34999,18 +34999,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 704.74
 	AC:
 		Vagas: 10 | Nota de Corte: 704.74
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 600.98
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 562.80
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 497.66
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 435.26
-	Categoria VI - Pessoas com deficiência:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 PSICOLOGIA, Bacharelado, Matutino
 Total de Vagas: 29
@@ -35019,17 +35019,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 800.79
 	AC:
 		Vagas: 10 | Nota de Corte: 800.79
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 671.50
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 671.16
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 630.26
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 601.28
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 597.12
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 591.80
 
 PSICOLOGIA, Bacharelado, Noturno
@@ -35039,17 +35039,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 798.38
 	AC:
 		Vagas: 10 | Nota de Corte: 798.38
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 669.46
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 637.78
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 612.72
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 596.44
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 552.86
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 535.56
 
 QUÍMICA, Licenciatura, Noturno
@@ -35059,17 +35059,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 711.21
 	AC:
 		Vagas: 10 | Nota de Corte: 711.21
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 604.98
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 555.26
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 444.38
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 SERVIÇO SOCIAL, Bacharelado, Noturno
@@ -35079,17 +35079,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 696.00
 	AC:
 		Vagas: 10 | Nota de Corte: 696.00
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 598.36
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 573.64
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 541.48
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 510.46
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 507.66
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -35102,17 +35102,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 688.37
 	AC:
 		Vagas: 10 | Nota de Corte: 688.37
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 570.76
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 525.20
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ADMINISTRAÇÃO, Bacharelado, Noturno
@@ -35122,17 +35122,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 676.55
 	AC:
 		Vagas: 10 | Nota de Corte: 676.55
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 594.00
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 537.86
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 480.14
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 AGRONOMIA, Bacharelado, Integral
@@ -35142,17 +35142,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 689.33
 	AC:
 		Vagas: 10 | Nota de Corte: 689.33
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 586.10
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 522.74
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 448.60
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ALIMENTOS, Tecnológico, Noturno
@@ -35162,15 +35162,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 4 | Nota de Corte: 642.10
 	AC:
 		Vagas: 4 | Nota de Corte: 642.10
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 572.06
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 516.84
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 485.32
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 454.22
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -35182,17 +35182,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 705.02
 	AC:
 		Vagas: 7 | Nota de Corte: 705.02
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 623.68
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 577.58
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Matutino
@@ -35202,17 +35202,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 790.81
 	AC:
 		Vagas: 10 | Nota de Corte: 790.81
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 657.08
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 601.62
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 588.82
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 548.36
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Noturno
@@ -35222,17 +35222,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 758.93
 	AC:
 		Vagas: 10 | Nota de Corte: 758.93
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 663.14
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 627.82
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 549.84
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 527.76
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 514.28
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 GEOGRAFIA, Licenciatura, Noturno
@@ -35242,17 +35242,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 4 | Nota de Corte: 663.14
 	AC:
 		Vagas: 4 | Nota de Corte: 663.14
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 573.70
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 535.06
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 417.00
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 JORNALISMO, Bacharelado, Noturno
@@ -35262,17 +35262,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 711.90
 	AC:
 		Vagas: 7 | Nota de Corte: 711.90
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 633.88
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 585.06
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 566.06
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 514.36
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 491.30
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 434.06
 
 SISTEMA DE INFORMAÇÃO, Bacharelado, Noturno
@@ -35282,15 +35282,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 699.80
 	AC:
 		Vagas: 10 | Nota de Corte: 699.80
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 595.36
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 568.38
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 509.60
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 504.80
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 476.72
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 441.48
@@ -35305,17 +35305,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 731.42
 	AC:
 		Vagas: 20 | Nota de Corte: 731.42
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 614.88
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 583.22
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 EDUCAÇÃO FÍSICA, Licenciatura, Matutino
@@ -35325,17 +35325,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 675.90
 	AC:
 		Vagas: 20 | Nota de Corte: 675.90
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 580.32
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 569.32
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 EDUCAÇÃO FÍSICA, Licenciatura, Noturno
@@ -35345,15 +35345,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 687.26
 	AC:
 		Vagas: 20 | Nota de Corte: 687.26
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 583.76
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 569.78
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 483.96
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 443.26
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
@@ -35365,17 +35365,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 693.27
 	AC:
 		Vagas: 20 | Nota de Corte: 693.27
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 594.54
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 563.22
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 MATEMÁTICA, Licenciatura, Noturno
@@ -35385,17 +35385,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 694.99
 	AC:
 		Vagas: 20 | Nota de Corte: 694.99
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 593.80
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 565.44
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Matutino
@@ -35405,17 +35405,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 641.98
 	AC:
 		Vagas: 20 | Nota de Corte: 641.98
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 574.70
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 548.94
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -35425,17 +35425,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 663.69
 	AC:
 		Vagas: 20 | Nota de Corte: 663.69
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 568.56
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 556.72
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
@@ -35448,17 +35448,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 687.95
 	AC:
 		Vagas: 10 | Nota de Corte: 687.95
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 590.66
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 546.56
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 508.52
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 AGRONOMIA, Bacharelado, Integral
@@ -35468,17 +35468,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 682.99
 	AC:
 		Vagas: 10 | Nota de Corte: 682.99
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 581.58
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 528.90
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 506.06
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Noturno
@@ -35488,17 +35488,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 655.26
 	AC:
 		Vagas: 10 | Nota de Corte: 655.26
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 549.84
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 520.74
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Matutino
@@ -35508,17 +35508,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 749.16
 	AC:
 		Vagas: 10 | Nota de Corte: 749.16
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 666.16
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 627.46
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 540.42
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 524.20
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 515.20
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 474.12
 
 DIREITO, Bacharelado, Noturno
@@ -35528,17 +35528,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 754.65
 	AC:
 		Vagas: 20 | Nota de Corte: 754.65
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 659.76
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 625.58
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: 559.00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 538.30
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 506.68
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 476.68
 
 EDUCAÇÃO FÍSICA, Licenciatura, Noturno
@@ -35548,17 +35548,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 671.60
 	AC:
 		Vagas: 10 | Nota de Corte: 671.60
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 560.94
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 550.64
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA DE COMPUTAÇÃO, Bacharelado, Integral
@@ -35568,17 +35568,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 708.20
 	AC:
 		Vagas: 10 | Nota de Corte: 708.20
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 607.04
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 550.44
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA ELÉTRICA, Bacharelado, Noturno
@@ -35588,17 +35588,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 714.66
 	AC:
 		Vagas: 10 | Nota de Corte: 714.66
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 611.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 539.38
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 473.46
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA ELÉTRICA, Bacharelado, Integral
@@ -35608,17 +35608,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 728.46
 	AC:
 		Vagas: 10 | Nota de Corte: 728.46
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 596.32
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 558.46
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO AMBIENTAL, Tecnológico, Noturno
@@ -35628,17 +35628,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 632.22
 	AC:
 		Vagas: 10 | Nota de Corte: 632.22
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 549.60
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 504.30
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO DE AGRONEGÓCIOS, Tecnológico, Noturno
@@ -35648,17 +35648,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 641.63
 	AC:
 		Vagas: 10 | Nota de Corte: 641.63
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 531.96
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 521.66
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 511.92
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PEDAGOGIA, Licenciatura, Noturno
@@ -35668,17 +35668,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 640.02
 	AC:
 		Vagas: 10 | Nota de Corte: 640.02
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 547.26
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 511.88
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 433.46
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PRODUÇÃO SUCROALCOOLEIRA, Tecnológico, Noturno
@@ -35688,17 +35688,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 634.46
 	AC:
 		Vagas: 10 | Nota de Corte: 634.46
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 536.08
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 480.40
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 PSICOLOGIA, Bacharelado, Integral
@@ -35708,15 +35708,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 769.33
 	AC:
 		Vagas: 10 | Nota de Corte: 769.33
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 655.54
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 655.24
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 630.06
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 564.06
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 546.70
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -35728,17 +35728,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 4 | Nota de Corte: 626.32
 	AC:
 		Vagas: 4 | Nota de Corte: 626.32
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 3 | Nota de Corte: 561.44
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 528.10
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 SISTEMA DE INFORMAÇÃO, Bacharelado, Noturno
@@ -35748,17 +35748,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 679.97
 	AC:
 		Vagas: 10 | Nota de Corte: 679.97
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 570.32
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 488.78
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -35771,15 +35771,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 698.76
 	AC:
 		Vagas: 20 | Nota de Corte: 698.76
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 597.92
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 565.50
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 522.86
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 505.84
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 474.82
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: 408.98
@@ -35791,17 +35791,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 704.24
 	AC:
 		Vagas: 20 | Nota de Corte: 704.24
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 610.80
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 569.26
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 470.76
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 455.20
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA DE MINAS, Bacharelado, Noturno
@@ -35811,17 +35811,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 692.51
 	AC:
 		Vagas: 20 | Nota de Corte: 692.51
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 592.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 565.72
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA METALÚRGICA, Bacharelado, Integral
@@ -35831,17 +35831,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 664.03
 	AC:
 		Vagas: 20 | Nota de Corte: 664.03
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 576.10
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 542.56
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
@@ -35854,17 +35854,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 649.87
 	AC:
 		Vagas: 10 | Nota de Corte: 649.87
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 547.28
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 522.82
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -35877,17 +35877,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 735.36
 	AC:
 		Vagas: 11 | Nota de Corte: 735.36
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 599.48
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 551.62
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 424.90
-	Categoria VI - Pessoas com deficiência:
-		Vagas: 3 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	PCD:
+		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 ADMINISTRAÇÃO, Bacharelado, Noturno
@@ -35897,17 +35897,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 721.90
 	AC:
 		Vagas: 11 | Nota de Corte: 721.90
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 611.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 561.06
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 526.54
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 514.46
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 513.26
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 433.30
 
 AGRONOMIA, Bacharelado, Integral
@@ -35917,17 +35917,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 718.66
 	AC:
 		Vagas: 10 | Nota de Corte: 718.66
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 604.36
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 575.04
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 568.42
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 562.76
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 558.38
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 431.08
 
 BIOMEDICINA, Bacharelado, Matutino
@@ -35937,17 +35937,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 783.73
 	AC:
 		Vagas: 11 | Nota de Corte: 783.73
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 674.58
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 657.12
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 637.46
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 596.50
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 583.42
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 579.20
 
 CIÊNCIAS BIOLÓGICAS, Bacharelado, Matutino
@@ -35957,17 +35957,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 738.78
 	AC:
 		Vagas: 11 | Nota de Corte: 738.78
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 621.38
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 553.34
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 437.28
-	Categoria VI - Pessoas com deficiência:
-		Vagas: 3 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	PCD:
+		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 CIÊNCIAS BIOLÓGICAS, Licenciatura, Noturno
@@ -35977,18 +35977,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 696.46
 	AC:
 		Vagas: 11 | Nota de Corte: 696.46
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 598.72
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 539.64
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 459.72
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
 
 CIÊNCIAS CONTÁBEIS, Bacharelado, Noturno
 Total de Vagas: 38
@@ -35997,18 +35997,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 726.46
 	AC:
 		Vagas: 11 | Nota de Corte: 726.46
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 617.54
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 572.08
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
 
 COMUNICAÇÃO SOCIAL - JORNALISMO, Bacharelado, Noturno
 Total de Vagas: 29
@@ -36017,17 +36017,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 715.42
 	AC:
 		Vagas: 10 | Nota de Corte: 715.42
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 627.62
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 599.00
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 487.06
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA, Bacharelado, Noturno
@@ -36037,17 +36037,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 736.44
 	AC:
 		Vagas: 11 | Nota de Corte: 736.44
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 622.96
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 589.30
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 582.36
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 441.34
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 249.20
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Matutino
@@ -36057,15 +36057,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 816.57
 	AC:
 		Vagas: 11 | Nota de Corte: 816.57
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 676.94
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 640.84
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 607.34
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 582.92
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 547.30
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 540.04
@@ -36077,17 +36077,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 799.76
 	AC:
 		Vagas: 11 | Nota de Corte: 799.76
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 665.74
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 635.74
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 600.02
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 539.92
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 537.10
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 528.62
 
 EDUCAÇÃO FÍSICA, Licenciatura, Noturno
@@ -36097,17 +36097,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 681.01
 	AC:
 		Vagas: 10 | Nota de Corte: 681.01
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 583.38
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 546.16
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 451.34
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 EDUCAÇÃO FÍSICA, Bacharelado, Noturno
@@ -36117,17 +36117,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 709.21
 	AC:
 		Vagas: 10 | Nota de Corte: 709.21
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 594.44
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 576.64
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 415.18
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 409.52
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ENFERMAGEM, Bacharelado, Matutino
@@ -36137,15 +36137,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 762.31
 	AC:
 		Vagas: 10 | Nota de Corte: 762.31
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 646.14
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 628.76
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 626.60
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 587.52
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 493.50
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -36157,15 +36157,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 768.64
 	AC:
 		Vagas: 10 | Nota de Corte: 768.64
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 658.94
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 619.32
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 566.60
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 553.24
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 456.32
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -36177,18 +36177,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 716.54
 	AC:
 		Vagas: 11 | Nota de Corte: 716.54
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 606.40
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 568.16
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA CIVIL, Bacharelado, Integral
 Total de Vagas: 29
@@ -36197,17 +36197,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 755.67
 	AC:
 		Vagas: 20 | Nota de Corte: 755.67
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 12 | Nota de Corte: 637.04
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 16 | Nota de Corte: 594.06
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 4 | Nota de Corte: 521.54
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 496.64
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 ENGENHARIA DE PRODUÇÃO, Bacharelado, Integral
@@ -36217,17 +36217,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 740.44
 	AC:
 		Vagas: 11 | Nota de Corte: 740.44
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 612.68
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 556.00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 507.42
-	Categoria VI - Pessoas com deficiência:
-		Vagas: 3 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	PCD:
+		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 ESTÉTICA E COSMÉTICA, Tecnológico, Noturno
@@ -36237,17 +36237,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 715.90
 	AC:
 		Vagas: 11 | Nota de Corte: 715.90
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 632.42
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 596.08
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 592.12
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 572.32
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 564.12
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 563.60
 
 FÍSICA, Licenciatura, Noturno
@@ -36257,17 +36257,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 678.45
 	AC:
 		Vagas: 7 | Nota de Corte: 678.45
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 597.02
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 499.38
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 GESTÃO COMERCIAL, Tecnológico, Noturno
@@ -36277,18 +36277,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 678.55
 	AC:
 		Vagas: 11 | Nota de Corte: 678.55
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 571.88
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 550.64
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 270.82
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
 
 HISTÓRIA, Licenciatura, Noturno
 Total de Vagas: 29
@@ -36297,17 +36297,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 716.59
 	AC:
 		Vagas: 10 | Nota de Corte: 716.59
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 626.78
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 595.82
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 575.80
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 571.58
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 526.08
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 
 LETRAS - PORTUGUÊS, Licenciatura, Noturno
@@ -36317,17 +36317,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 687.93
 	AC:
 		Vagas: 10 | Nota de Corte: 687.93
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 585.72
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 524.20
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 MATEMÁTICA, Licenciatura, Noturno
@@ -36337,17 +36337,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 669.74
 	AC:
 		Vagas: 10 | Nota de Corte: 669.74
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 572.96
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 514.98
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 503.04
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 MEDICINA, Bacharelado, Integral
@@ -36357,15 +36357,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 893.04
 	AC:
 		Vagas: 10 | Nota de Corte: 893.04
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 764.24
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 752.62
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 730.28
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 728.72
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 714.02
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 709.78
@@ -36377,17 +36377,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 680.32
 	AC:
 		Vagas: 10 | Nota de Corte: 680.32
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 624.42
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 576.62
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 526.02
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 446.38
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 NUTRIÇÃO, Bacharelado, Matutino
@@ -36397,15 +36397,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 756.03
 	AC:
 		Vagas: 10 | Nota de Corte: 756.03
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 646.70
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 636.78
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 596.54
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 572.52
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 546.74
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 438.54
@@ -36417,15 +36417,15 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 10 | Nota de Corte: 678.48
 	AC:
 		Vagas: 10 | Nota de Corte: 678.48
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 6 | Nota de Corte: 587.30
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 8 | Nota de Corte: 543.98
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 482.66
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 428.48
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
@@ -36437,17 +36437,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 687.82
 	AC:
 		Vagas: 11 | Nota de Corte: 687.82
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 581.08
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 548.56
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 3 | Nota de Corte: 497.18
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: 461.62
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 434.60
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 
 SISTEMAS DE INFORMAÇÃO, Bacharelado, Noturno
@@ -36457,18 +36457,18 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 11 | Nota de Corte: 722.96
 	AC:
 		Vagas: 11 | Nota de Corte: 722.96
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 8 | Nota de Corte: 625.10
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 11 | Nota de Corte: 549.44
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 3 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
 UNIVERSIDADE DO ESTADO DE MINAS GERAIS (UEMG) - AUTARQUIA MUNICIPAL DE ENSINO DE POÇOS DE CALDAS, Poços de Caldas, MG
@@ -36480,17 +36480,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 20 | Nota de Corte: 652.14
 	AC:
 		Vagas: 20 | Nota de Corte: 652.14
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 13 | Nota de Corte: 579.40
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 17 | Nota de Corte: 526.56
-	Categoria VI - Pessoas com deficiência:
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
+	PCD:
 		Vagas: 4 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 2 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 2 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
@@ -36503,17 +36503,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 713.46
 	AC:
 		Vagas: 7 | Nota de Corte: 713.46
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 605.24
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 562.30
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 487.44
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 DESIGN DE PRODUTO, Bacharelado, Noturno
@@ -36523,17 +36523,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 682.25
 	AC:
 		Vagas: 7 | Nota de Corte: 682.25
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 604.36
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 553.30
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: 484.08
+	QUILOMBOLA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	INDIGENA + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
 	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
-		Vagas: 1 | Nota de Corte: .00
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 QUÍMICA, Licenciatura, Noturno
@@ -36543,17 +36543,17 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=1.00 | Mínimo: NAT=.00, HUM=
 		Vagas: 7 | Nota de Corte: 633.05
 	AC:
 		Vagas: 7 | Nota de Corte: 633.05
-	Categoria V - Outros candidatos de baixa renda e egressos de escola pública:
+	RENDA + EP:
 		Vagas: 5 | Nota de Corte: 582.84
-	Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública:
+	PRETO/PARDO + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 521.20
-	Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública:
+	QUILOMBOLA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 502.38
-	Categoria VI - Pessoas com deficiência:
+	PCD:
 		Vagas: 2 | Nota de Corte: .00
-	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
+	INDIGENA + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
-	Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública:
+	Categoria IV - Candidatos declarados ciganos, de baixa renda e egressos de escola pública:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
