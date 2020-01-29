@@ -1,13 +1,26 @@
-
 # Dados SiSU 2020
 
 ## Arquivos
 
-**.csv: [22/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_22.csv) | [23/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_23.csv) | [24/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_24.csv) | [25/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_25.csv) | [26/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_26.csv)**
+### .csv ([partial_request_data.py](/partial_request_data.py), [names_request_data.py](/names_request_data.py))
 
-**.txt: [22/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_22.txt) | [23/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_23.txt) | [24/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_24.txt) | [25/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_25.txt) | [26/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/cursos_26.txt)**
+**Parciais: [22/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_22.csv) | [23/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_23.csv) | [24/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_24.csv) | [25/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_25.csv) | [26/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_26.csv)**
 
-## Dados ([analyze_data.py](/analyze_data.py)):
+**[Final (27/01)](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/final_27.csv)**
+
+**[Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/names.csv)**
+
+### .txt ([partial_parse_csv.py](/partial_parse_csv.py), [names_parse_csv.py](/names_parse_csv.py), [names_generate_rank.py](names_generate_rank.py))
+
+**Parciais: [22/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_22.txt) | [23/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_23.txt) | [24/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_24.txt) | [25/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_25.txt) | [26/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/partial_26.txt)**
+
+**[Final (27/01)](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/final_27.txt)**
+
+**[Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/names.txt)**
+
+**[Ranking Geral de Notas](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/names_rank.txt)**
+
+## Análise de Dados Parciais ([partial_analyze_data.py](/partial_analyze_data.py)):
 
 ### Geral
 
