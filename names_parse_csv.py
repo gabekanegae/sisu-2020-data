@@ -104,32 +104,36 @@ class Aluno:
 
     def __str__(self):
         s = [
-             "{}:".format(self.modNome),
-             "\t{:>3}: {:>6} - {}".format(self.posicao, self.nota, self.nome)
+             "\t{}:".format(self.modNome),
+             "\t\t{:>3}: {:>6} - {}".format(self.posicao, self.nota, self.nome)
             ]
 
         return "\n".join(s)
 
 class Curso:
-    def __init__(self, l):
-        self.codigo = l[0]
-        self.alunos = [Aluno(l[i:i+6]) for i in range(1, len(l), 6)]
+    def __init__(self, info, alunos):
+        # campusUF, iesNome, iesSG, campusCidade, campusNome, cursoNome, cursoGrau, cursoTurno, vagasTotais, codigo
+        self.campusUF, self.iesNome, self.iesSG, self.campusCidade = info[:4]
+        self.campusNome, self.cursoNome, self.cursoGrau, self.cursoTurno, self.vagasTotais = info[4:]
+        self.alunos = [Aluno(alunos[i:i+6]) for i in range(0, len(alunos), 6)]
 
     def __str__(self):
         s = [
-             "[{}]".format(self.codigo)
-             # "{} ({}) - {}, {}, {}".format(self.iesNome, self.iesSG, self.campusNome, self.campusCidade, self.campusUF),
+             "{} ({}) - {}, {}, {}".format(self.iesNome, self.iesSG, self.campusNome, self.campusCidade, self.campusUF),
+             "{}, {}, {}".format(self.cursoNome, self.cursoGrau, self.cursoTurno),
             ]
 
-        als = [str(m) for m in self.alunos]
-        last = als[0].split("\n")[0]
-        for i in range(1, len(als)):
-            if als[i].split("\n")[0] == last:
-                als[i] = als[i].split("\n")[1]
-            else:
-                last = als[i].split("\n")[0]
+        alunos = [str(m) for m in self.alunos]
 
-        return "\n".join(s+als)
+        # Only print modality name if it's the first occurence
+        last = alunos[0].split("\n")[0]
+        for i in range(1, len(alunos)):
+            if alunos[i].split("\n")[0] == last:
+                alunos[i] = alunos[i].split("\n")[1]
+            else:
+                last = alunos[i].split("\n")[0]
+
+        return "\n".join(s+alunos)
 
 t0 = time()
 
@@ -138,21 +142,38 @@ filename = input("Filename (without extension): /{}/".format(directory)).strip()
 
 ##################################################
 
+# Get all course info from .csv file
+try:
+    with open("all_courses.csv", "r", encoding="UTF-8") as csvFile:
+        csvFileReader = csv.reader(csvFile, delimiter=";")
+        cursosInfo = {oferta[-1]: oferta[:-1] for oferta in [tuple(l) for l in csvFileReader]}
+except FileNotFoundError:
+    print("File /all_courses.csv not found.")
+    exit()
+
 # Read csv and process strings (via class constructors)
 try:
     with open(os.path.join(directory, filename + ".csv"), "r", encoding="UTF-8") as csvFile:
         csvFileReader = csv.reader(csvFile, delimiter=";")
-        cursos = [Curso(l) for l in csvFileReader]
+        cursos = [Curso(cursosInfo[c[0]], c[1:]) for c in csvFileReader]
 except FileNotFoundError:
     print("File /{}/{}.csv not found.".format(directory, filename))
     exit()
 
 # Sort lexicographically
-cursos = sorted(cursos, key=lambda x: (x.codigo))
+cursos = sorted(cursos, key=lambda x: (x.campusUF, x.iesNome, x.iesSG, x.campusCidade, x.campusNome, x.cursoNome))
 
 # Write to .txt
 with open(os.path.join(directory, filename + ".txt"), "w+", encoding="UTF-8") as humanFile:
     for i, curso in enumerate(cursos):
-        humanFile.write(str(curso) + "\n")
+        nl = str(curso).index("\n")
+
+        # Only write iesNome if it's the first occurence
+        if i == 0 or (str(curso)[:nl] != str(cursos[i-1]).split("\n")[0]):
+            humanFile.write("="*50 + "\n")
+            humanFile.write(str(curso)[:nl] + "\n")
+            humanFile.write("="*50 + "\n")
+        humanFile.write(str(curso)[nl+1:] + "\n")
+        humanFile.write("\n")
 
 print("Written {} courses to '{}.txt' in {:.1f}s.".format(len(cursos), directory+"/"+filename, time()-t0))
