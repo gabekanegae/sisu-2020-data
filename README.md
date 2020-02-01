@@ -2,7 +2,9 @@
 
 ## Arquivos .csv
 
-Gerados por [grades_request_data.py](/grades_request_data.py) e [names_request_data.py](/names_request_data.py).
+Gerados por [all_list_courses.py](/all_list_courses.py), [grades_request_data.py](/grades_request_data.py) e [names_request_data.py](/names_request_data.py).
+
+**[Lista de Cursos](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/all_courses.csv)**
 
 **Parciais: [22/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_22.csv) | [23/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_23.csv) | [24/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_24.csv) | [25/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_25.csv) | [26/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_26.csv)**
 
