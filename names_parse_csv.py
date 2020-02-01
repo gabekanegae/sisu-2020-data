@@ -112,7 +112,6 @@ class Aluno:
 
 class Curso:
     def __init__(self, info, alunos):
-        # campusUF, iesNome, iesSG, campusCidade, campusNome, cursoNome, cursoGrau, cursoTurno, vagasTotais, codigo
         self.campusUF, self.iesNome, self.iesSG, self.campusCidade = info[:4]
         self.campusNome, self.cursoNome, self.cursoGrau, self.cursoTurno, self.vagasTotais = info[4:]
         self.alunos = [Aluno(alunos[i:i+6]) for i in range(0, len(alunos), 6)]
