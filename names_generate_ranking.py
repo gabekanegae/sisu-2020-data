@@ -35,9 +35,9 @@ for c in cursos:
 alunos = sorted(alunos, key=lambda x: (x.nota), reverse=True)
 
 # Write to .txt
-with open(os.path.join(directory, filename + "_rank" + ".txt"), "w+", encoding="UTF-8") as humanFile:
+with open(os.path.join(directory, filename + "_ranking" + ".txt"), "w+", encoding="UTF-8") as humanFile:
     for i, a in enumerate(alunos):
         pct = (1-(i+1)/len(alunos))*100
         humanFile.write("{:>6} - {:>7.3f}% | {:>6.2f} - {} ({})\n".format(i+1, pct, a.nota, a.nome, a.curso))
 
-print("Written {} students to '{}_rank.txt' in {:.1f}s.".format(len(alunos), directory+"/"+filename, time()-t0))
+print("Written {} students to '{}_ranking.txt' in {:.1f}s.".format(len(alunos), directory+"/"+filename, time()-t0))

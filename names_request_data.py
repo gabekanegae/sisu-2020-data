@@ -13,34 +13,40 @@ errors = []
 
 ##################################################
 
-with open("all_id_list.txt") as f:
-    ids = [int(id_.strip()) for id_ in f.readlines() if id_]
-
-ids = sorted(list(set(ids))) # Sort and remove duplicates
+# Read course list
+try:
+    with open("all_courses.csv", "r", encoding="UTF-8") as csvFile:
+        csvFileReader = csv.reader(csvFile, delimiter=";")
+        ofertas = [tuple(l) for l in csvFileReader]
+except FileNotFoundError:
+    print("File /all_courses.csv not found.")
+    exit()
 
 print("Will write to file '/{}/{}.csv'.".format(directory, filename))
 
 csvFile = open(os.path.join(directory, filename + ".csv"), "w+", encoding="UTF-8")
 csvFileWriter = csv.writer(csvFile,  delimiter=";", quotechar="\"", quoting=csv.QUOTE_ALL, lineterminator="\n")
 
-print("Reading {} responses...".format(len(ids)))
+print("Reading {} courses...".format(len(ofertas)))
 
-for id_ in ids:
+for oferta in ofertas:
+    campusUF, iesNome, iesSG, campusCidade, campusNome, cursoNome, cursoGrau, cursoTurno, vagasTotais, codigo = oferta
+
     while True:
         try:
-            response = requests.get(baseURL.format(id_))
+            response = requests.get(baseURL.format(codigo))
             break
         except:
-            print("[{}] An exception occured, retrying...".format(id_))
+            print("[{}] An exception occured, retrying...".format(codigo))
             sleep(1)
 
     if response.status_code != 200:
-        print("[{}] Error {}".format(id_, response.status_code))
-        errors.append((id_, response.status_code))
+        print("[{}] Error {}".format(codigo, response.status_code))
+        errors.append((codigo, response.status_code))
         continue
     response = response.json()
 
-    csvLine = [id_]
+    csvLine = [codigo]
     for r in response:
         codigo_aluno = r["co_inscricao_enem"]
         nome = r["no_inscrito"]
@@ -51,13 +57,12 @@ for id_ in ids:
 
         csvLine += [codigo_aluno, nome, classificacao, nota, modalidade, bonus]
 
-    print("[{}]".format(id_))
-    # print("[{}] {} ({}) - {}".format(codigo, iesNome, iesSG, cursoNome))
+    print("[{}] {} ({}) - {}".format(codigo, iesNome, iesSG, cursoNome))
 
     # Write to .csv
     csvFileWriter.writerow(tuple(csvLine))
 
-print("Parsed {} responses to '{}/{}.csv' in {:.1f}s with {} errors.".format(len(ids), directory, filename, time()-t0, len(errors)))
+print("Parsed {} courses to '{}/{}.csv' in {:.1f}s with {} errors.".format(len(ofertas), directory, filename, time()-t0, len(errors)))
 if errors:
     print("Errors:")
     for e in errors:

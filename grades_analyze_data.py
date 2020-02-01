@@ -16,7 +16,7 @@ class Curso:
         self.modalidades = [Modalidade(l[i:i+5]) for i in range(21, len(l), 5)]
 
 directory = "data"
-filenames = ["partial_22", "partial_23", "partial_24", "partial_25", "partial_26"]
+filenames = ["grades_22", "grades_23", "grades_24", "grades_25", "grades_26"]
 
 t0 = time()
 
