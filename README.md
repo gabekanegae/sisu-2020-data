@@ -8,6 +8,8 @@
 
 **Final: [27/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_27.csv) | [Lista de Aprovados](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/names.csv)**
 
+**[Arquivos "baixar lista de selecionados da instituição"](get_csv)**
+
 ## Arquivos .txt
 
 **Parciais: [22/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_22.txt) | [23/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_23.txt) | [24/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_24.txt) | [25/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_25.txt) | [26/01](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/data/grades_26.txt)**
