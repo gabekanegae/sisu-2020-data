@@ -116,15 +116,16 @@ modNomeReduzido = {
 "Candidatos Transexuais, travestis e transgêneros que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.": "TRANS + RENDA + EP"
 }
 
+modNomeReduzido = {k.lower(): v for k, v in modNomeReduzido.items()}
+
 class Modalidade:
     def __init__(self, m):
         self.modNome, self.vagas, self.nota, self.bonus, self.dataNota = m
 
         # Reduces modality names based on the modNomeReduzido dict
-        for k, v in modNomeReduzido.items():
-            if self.modNome == k:
-                self.modNome = v
-                break
+        modNomeKey = self.modNome.lower()
+        if modNomeKey in modNomeReduzido:
+            self.modNome = modNomeReduzido[modNomeKey]
 
     def __str__(self):
         s = [

@@ -45586,7 +45586,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 540.52
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 479.31
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45598,10 +45598,10 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 564.19
 	AC:
 		Vagas: 16 | Nota de Corte: 539.26
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45614,7 +45614,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 650.65
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 590.43
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 447.92
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45626,10 +45626,10 @@ Pesos: NAT=3.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 503.01
 	AC:
 		Vagas: 16 | Nota de Corte: 501.31
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45643,10 +45643,10 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 506.92
 	EP:
 		Vagas: 11 | Nota de Corte: 456.75
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45657,10 +45657,10 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 517.12
 	AC:
 		Vagas: 16 | Nota de Corte: 432.38
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45676,7 +45676,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 608.42
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 528.39
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 405.29
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45688,10 +45688,10 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 592.37
 	AC:
 		Vagas: 16 | Nota de Corte: 507.42
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45704,7 +45704,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 622.29
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 602.44
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 514.37
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 478.43
@@ -45714,10 +45714,10 @@ Total de Vagas: 40
 Pesos: NAT=3.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	EP:
 		Vagas: 11 | Nota de Corte: 407.61
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 	AC:
@@ -45730,10 +45730,10 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 494.16
 	AC:
 		Vagas: 16 | Nota de Corte: 461.64
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45744,10 +45744,10 @@ Pesos: NAT=2.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 494.23
 	AC:
 		Vagas: 16 | Nota de Corte: 440.29
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -45763,7 +45763,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 558.54
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 521.98
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 485.20
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45777,7 +45777,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 537.58
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 417.24
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45791,7 +45791,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 487.61
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 445.94
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45807,7 +45807,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 513.04
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 433.90
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 DIREITO, Bacharelado, Matutino
@@ -45817,7 +45817,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 692.91
 	EP:
 		Vagas: 11 | Nota de Corte: 663.30
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 634.74
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 629.07
@@ -45833,7 +45833,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 508.66
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 481.14
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45847,7 +45847,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 591.93
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 565.05
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 523.40
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 478.13
@@ -45861,7 +45861,7 @@ Pesos: NAT=2.00, HUM=4.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 497.74
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 464.13
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 342.61
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45875,7 +45875,7 @@ Pesos: NAT=1.00, HUM=4.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 553.39
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 488.93
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 448.25
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45885,7 +45885,7 @@ Total de Vagas: 40
 Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
 	EP:
 		Vagas: 11 | Nota de Corte: 564.78
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 548.16
 	AC:
 		Vagas: 16 | Nota de Corte: 537.11
@@ -45903,7 +45903,7 @@ Pesos: NAT=2.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 501.47
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 399.18
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45917,7 +45917,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 8 | Nota de Corte: 744.77
 	PRETO/PARDO:
 		Vagas: 8 | Nota de Corte: 736.35
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 726.29
 	INDIGENA:
 		Vagas: 1 | Nota de Corte: 675.05
@@ -45931,7 +45931,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 522.03
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 494.09
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45948,7 +45948,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 540.69
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 466.07
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 436.64
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45962,7 +45962,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 624.88
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 591.38
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 587.60
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45976,7 +45976,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=3.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 502.36
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 448.19
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -45992,7 +45992,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 501.53
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 436.33
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -46005,10 +46005,10 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 521.67
 	AC:
 		Vagas: 16 | Nota de Corte: 486.38
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46019,10 +46019,10 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 478.26
 	AC:
 		Vagas: 16 | Nota de Corte: 411.96
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46036,7 +46036,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 540.57
 	EP:
 		Vagas: 11 | Nota de Corte: 527.30
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 494.21
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 433.91
@@ -46052,7 +46052,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 558.11
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 484.21
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46064,7 +46064,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 546.06
 	EP:
 		Vagas: 11 | Nota de Corte: 536.94
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 448.47
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
@@ -46083,7 +46083,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 523.75
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 458.76
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46095,10 +46095,10 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 484.43
 	EP:
 		Vagas: 11 | Nota de Corte: 480.99
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46111,7 +46111,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 551.52
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 463.10
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46119,7 +46119,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 TURISMO, Bacharelado, Noturno
 Total de Vagas: 40
 Pesos: NAT=2.00, HUM=4.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=.01, LIN=.01, MAT=.01, RED=.01, TOTAL=.01
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 525.07
 	EP:
 		Vagas: 11 | Nota de Corte: 449.86
@@ -46142,7 +46142,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 629.15
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 595.32
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 544.79
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 459.81
@@ -46154,7 +46154,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 536.98
 	AC:
 		Vagas: 16 | Nota de Corte: 509.39
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 420.08
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
@@ -46168,7 +46168,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 530.68
 	AC:
 		Vagas: 16 | Nota de Corte: 513.86
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 435.28
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 410.53
@@ -46185,7 +46185,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 593.26
 	EP:
 		Vagas: 14 | Nota de Corte: 578.44
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 570.74
 	PRETO/PARDO:
 		Vagas: 13 | Nota de Corte: 512.39
@@ -46199,7 +46199,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 565.21
 	EP:
 		Vagas: 14 | Nota de Corte: 554.59
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 514.04
 	PRETO/PARDO:
 		Vagas: 13 | Nota de Corte: 471.97
@@ -46213,10 +46213,10 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 20 | Nota de Corte: 564.09
 	EP:
 		Vagas: 14 | Nota de Corte: 526.16
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 13 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46229,7 +46229,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 631.24
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 561.97
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46243,7 +46243,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 598.73
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 473.69
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46255,10 +46255,10 @@ Pesos: NAT=2.00, HUM=4.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 517.91
 	AC:
 		Vagas: 16 | Nota de Corte: 512.25
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46273,7 +46273,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 455.71
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 452.25
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 417.64
 
 MATEMÁTICA, Licenciatura, Noturno
@@ -46283,10 +46283,10 @@ Pesos: NAT=2.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 539.07
 	EP:
 		Vagas: 11 | Nota de Corte: 524.89
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46297,7 +46297,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=3.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 546.19
 	EP:
 		Vagas: 11 | Nota de Corte: 541.74
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 494.35
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 470.80
@@ -46313,7 +46313,7 @@ Pesos: NAT=1.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 572.51
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 501.88
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46328,10 +46328,10 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 508.50
 	AC:
 		Vagas: 16 | Nota de Corte: 504.93
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
 
@@ -46344,7 +46344,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 550.34
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 487.59
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46358,7 +46358,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 558.58
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 534.61
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 459.19
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46370,7 +46370,7 @@ Pesos: NAT=4.00, HUM=2.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 526.51
 	EP:
 		Vagas: 11 | Nota de Corte: 512.02
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 448.23
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 422.54
@@ -46386,7 +46386,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 552.74
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 522.86
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 425.53
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46402,7 +46402,7 @@ Pesos: NAT=4.00, HUM=3.00, LIN=3.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 10 | Nota de Corte: 526.44
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: 464.19
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ENGENHARIA CIVIL, Bacharelado, Integral
@@ -46414,7 +46414,7 @@ Pesos: NAT=2.00, HUM=2.00, LIN=3.00, MAT=4.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 597.24
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 522.90
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 452.91
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46428,7 +46428,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=2.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 16 | Nota de Corte: 557.98
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 501.01
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 409.08
 	INDIGENA:
 		Vagas: 2 | Nota de Corte: .00
@@ -46440,7 +46440,7 @@ Pesos: NAT=1.00, HUM=3.00, LIN=4.00, MAT=1.00, RED=3.00 | Mínimo: NAT=.01, HUM=
 		Vagas: 11 | Nota de Corte: 518.73
 	AC:
 		Vagas: 16 | Nota de Corte: 514.45
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 478.30
 	PRETO/PARDO:
 		Vagas: 10 | Nota de Corte: 423.20
@@ -57197,8 +57197,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 531.66
 	EP:
 		Vagas: 1 | Nota de Corte: 491.08
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57206,6 +57204,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -57226,7 +57226,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 15 | Nota de Corte: 552.09
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 530.16
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 448.04
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 425.46
@@ -57248,7 +57248,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=1.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 2 | Nota de Corte: 533.27
 	PPI + RENDA + EP:
 		Vagas: 4 | Nota de Corte: 531.84
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 500.91
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -57276,11 +57276,11 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 2 | Nota de Corte: 486.99
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 456.81
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 COMPUTAÇÃO, Licenciatura, Vespertino
@@ -57298,7 +57298,7 @@ Pesos: NAT=1.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 551.44
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 546.90
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 464.24
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: 461.20
@@ -57320,8 +57320,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 528.74
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 501.45
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57329,6 +57327,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Noturno
@@ -57344,8 +57344,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 2 | Nota de Corte: 571.46
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 543.71
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57353,6 +57351,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 QUÍMICA, Licenciatura, Vespertino
@@ -57368,8 +57368,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 523.73
 	EP:
 		Vagas: 1 | Nota de Corte: 512.63
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57377,6 +57375,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 QUÍMICA, Licenciatura, Noturno
@@ -57394,13 +57394,13 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 546.71
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 474.00
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -57419,7 +57419,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 14 | Nota de Corte: 598.80
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 591.91
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 529.91
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 522.17
@@ -57445,13 +57445,13 @@ Pesos: NAT=2.00, HUM=1.00, LIN=2.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 564.70
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 508.66
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 VITICULTURA E ENOLOGIA, Tecnológico, Matutino
@@ -57469,13 +57469,13 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 3 | Nota de Corte: 518.13
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 468.51
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -57498,11 +57498,11 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 471.46
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 352.44
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ALIMENTOS, Tecnológico, Vespertino
@@ -57518,8 +57518,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 494.95
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 468.68
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57527,6 +57525,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Matutino
@@ -57536,8 +57536,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 497.00
 	AC:
 		Vagas: 14 | Nota de Corte: 459.23
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
@@ -57549,6 +57547,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 	EP:
 		Vagas: 1 | Nota de Corte: .00
@@ -57566,8 +57566,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 470.34
 	RENDA + EP:
 		Vagas: 2 | Nota de Corte: 468.48
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57575,6 +57573,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 SISTEMAS PARA INTERNET, Tecnológico, Vespertino
@@ -57592,13 +57592,13 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 447.65
 	PPI + EP:
 		Vagas: 4 | Nota de Corte: 421.19
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 SISTEMAS PARA INTERNET, Tecnológico, Noturno
@@ -57616,13 +57616,13 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 464.11
 	EP:
 		Vagas: 1 | Nota de Corte: 442.56
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -57643,13 +57643,13 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 444.03
 	PPI + EP:
 		Vagas: 5 | Nota de Corte: 435.21
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -57672,12 +57672,12 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 1 | Nota de Corte: 484.35
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 424.06
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + EP:
 		Vagas: 2 | Nota de Corte: .00
+	PCD:
+		Vagas: 1 | Nota de Corte: .00
 
 FÍSICA, Licenciatura, Matutino
 Total de Vagas: 35
@@ -57690,7 +57690,7 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 2 | Nota de Corte: 495.79
 	AC:
 		Vagas: 16 | Nota de Corte: 487.16
-	com Deficiência:
+	PCD:
 		Vagas: 1 | Nota de Corte: 416.65
 	PPI + PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
@@ -57716,8 +57716,6 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 		Vagas: 4 | Nota de Corte: 514.23
 	EP:
 		Vagas: 2 | Nota de Corte: 491.21
-	com Deficiência:
-		Vagas: 1 | Nota de Corte: .00
 	PPI + PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
 	PPI + PCD + EP:
@@ -57725,6 +57723,8 @@ Pesos: NAT=2.00, HUM=1.00, LIN=1.00, MAT=2.00, RED=2.00 | Mínimo: NAT=.10, HUM=
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
+		Vagas: 1 | Nota de Corte: .00
+	PCD:
 		Vagas: 1 | Nota de Corte: .00
 
 ==================================================
@@ -100353,8 +100353,6 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 41 | Nota de Corte: 646.85
 	PPI + RENDA + EP:
 		Vagas: 41 | Nota de Corte: 621.43
-	com Deficiência:
-		Vagas: 26 | Nota de Corte: .00
 	TRANS:
 		Vagas: 4 | Nota de Corte: .00
 	TRANS:
@@ -100369,6 +100367,8 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 6 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 6 | Nota de Corte: .00
+	PCD:
+		Vagas: 26 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIA E TECNOLOGIA, Bacharelado, Noturno
 Total de Vagas: 503
@@ -100389,8 +100389,6 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 4 | Nota de Corte: 582.66
 	PPI + PCD + RENDA + EP:
 		Vagas: 3 | Nota de Corte: 507.83
-	com Deficiência:
-		Vagas: 26 | Nota de Corte: .00
 	TRANS:
 		Vagas: 4 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
@@ -100401,6 +100399,8 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 6 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 6 | Nota de Corte: .00
+	PCD:
+		Vagas: 26 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIAS NATURAIS E EXATAS, Licenciatura, Matutino
 Total de Vagas: 79
@@ -100417,8 +100417,6 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 12 | Nota de Corte: 610.32
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 590.35
-	com Deficiência:
-		Vagas: 4 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
@@ -100433,6 +100431,8 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 4 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIAS NATURAIS E EXATAS, Licenciatura, Noturno
 Total de Vagas: 79
@@ -100451,8 +100451,6 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: 606.10
 	PPI + RENDA + EP:
 		Vagas: 6 | Nota de Corte: 605.59
-	com Deficiência:
-		Vagas: 4 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
@@ -100465,6 +100463,8 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 4 | Nota de Corte: .00
 
 ==================================================
 FUNDAÇÃO UNIVERSIDADE FEDERAL DO ABC (UFABC) - CÂMPUS SÃO BERNARDO DO CAMPO, São Bernardo do Campo, SP
@@ -100486,8 +100486,6 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 18 | Nota de Corte: 614.44
 	PPI + PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: 567.33
-	com Deficiência:
-		Vagas: 11 | Nota de Corte: .00
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
@@ -100500,6 +100498,8 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 3 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 2 | Nota de Corte: .00
+	PCD:
+		Vagas: 11 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIA E TECNOLOGIA, Bacharelado, Noturno
 Total de Vagas: 217
@@ -100514,8 +100514,6 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 32 | Nota de Corte: 639.71
 	PPI + RENDA + EP:
 		Vagas: 19 | Nota de Corte: 622.50
-	com Deficiência:
-		Vagas: 11 | Nota de Corte: .00
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
 	TRANS:
@@ -100532,6 +100530,8 @@ Pesos: NAT=1.50, HUM=1.00, LIN=1.00, MAT=1.50, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 3 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 3 | Nota de Corte: .00
+	PCD:
+		Vagas: 11 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIAS E HUMANIDADES - BI/LI, Bacharelado, Matutino
 Total de Vagas: 173
@@ -100552,8 +100552,6 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 606.02
 	PCD + EP:
 		Vagas: 2 | Nota de Corte: 599.12
-	com Deficiência:
-		Vagas: 9 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
 		Vagas: 1 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
@@ -100564,6 +100562,8 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 2 | Nota de Corte: .00
+	PCD:
+		Vagas: 9 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIAS E HUMANIDADES - BI/LI, Bacharelado, Noturno
 Total de Vagas: 173
@@ -100584,8 +100584,6 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 15 | Nota de Corte: 633.05
 	Refugiados e Solicitantes de Refúgio em situação de Vulnerabilidade Econômica:
 		Vagas: 1 | Nota de Corte: 578.86
-	com Deficiência:
-		Vagas: 9 | Nota de Corte: .00
 	TRANS:
 		Vagas: 2 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
@@ -100596,6 +100594,8 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 2 | Nota de Corte: .00
+	PCD:
+		Vagas: 9 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIAS HUMANAS, Licenciatura, Matutino
 Total de Vagas: 24
@@ -100612,8 +100612,6 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: 628.97
 	PPI + RENDA + EP:
 		Vagas: 2 | Nota de Corte: 621.38
-	com Deficiência:
-		Vagas: 2 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
@@ -100628,6 +100626,8 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 INTERDISCIPLINAR EM CIÊNCIAS HUMANAS, Licenciatura, Noturno
 Total de Vagas: 24
@@ -100646,8 +100646,6 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 2 | Nota de Corte: 610.85
 	PCD + EP:
 		Vagas: 1 | Nota de Corte: 572.73
-	com Deficiência:
-		Vagas: 2 | Nota de Corte: .00
 	TRANS:
 		Vagas: 1 | Nota de Corte: .00
 	Refugiados e Solicitantes de Refúgio, independentemente de renda familiar:
@@ -100660,6 +100658,8 @@ Pesos: NAT=1.00, HUM=1.50, LIN=1.50, MAT=1.00, RED=1.50 | Mínimo: NAT=450.00, H
 		Vagas: 1 | Nota de Corte: .00
 	PCD + RENDA + EP:
 		Vagas: 1 | Nota de Corte: .00
+	PCD:
+		Vagas: 2 | Nota de Corte: .00
 
 ==================================================
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO (IFSP) - IFSP - CAMPUS ARARAQUARA, Araraquara, SP
