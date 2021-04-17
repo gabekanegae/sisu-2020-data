@@ -24,12 +24,20 @@ modNomeReduzido = {
 "que tenham cursado integralmente o Ensino Médio em instituições públicas e gratuitas de ensino": "EP",
 "que tenham cursado o ensino fundamental e médio integralmente em escola pública": "EP",
 "que tenham cursado todo o ensino médio e pelo menos dois anos do Ensino Fundamental II em escola pública": "EP",
+"Candidato (s) que cursaram o ensino médio, integral e exclusivamente, em escola pública do Brasil e que não tenham concluído curso de graduação.": "EP",
+"CANDIDATOS QUE TENHAM CURSADO, NA REDE PÚBLICA, OS ÚLTIMOS QUATRO ANOS DO ENSINO FUNDAMENTAL E TODO O ENSINO MÉDIO": "EP",
+"demais de escola pública": "EP",
+"que tenham cursado parcialmente o ensino médio em escola pública (pelo menos um ano com aprovação) ou em escolas de direito privado sem fins lucrativos, cujo orçamento da instituição seja proveniente do poder público, em pelo menos 50%.": "EP",
 "membros de grupos indígenas": "INDIGENA",
 "Candidato (s) Indígenas": "INDIGENA",
 "indígenas aldeados": "INDIGENA",
 "indígenas, condição que deve ser comprovada mediante apresentação do RANI (Registro Administrativo de Nascimento de Indígena) ou declaração atestada pela FUNAI.": "INDIGENA",
+"Candidato (s) indígena": "INDIGENA",
+"Candidatos indígenas": "INDIGENA",
+"Indígenas": "INDIGENA",
 "Candidatos autodeclarados indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "INDIGENA + EP",
 "INDÍGENAS que cursaram integralmente o Ensino Médio em escolas públicas": "INDIGENA + EP",
+"Candidatos Indígenas que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.": "INDIGENA + RENDA + EP",
 "Candidatos Indígenas, de baixa renda que sejam egressos de escola pública:": "INDIGENA + RENDA + EP",
 "Candidatos autodeclarados indígenas, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e  que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "INDIGENA + RENDA + EP",
 "Candidato (s) economicamente hipossuficientes indígenas": "INDIGENA + RENDA",
@@ -46,14 +54,22 @@ modNomeReduzido = {
 "com deficiência que concluíram o Ensino Médio, independente do percurso de formação.": "PCD",
 "com deficiência": "PCD",
 "com deficiência: será reservada uma vaga, por curso e turno, qualquer que seja a sua procedência escolar.": "PCD",
+"Candidatos com deficiência": "PCD",
+"com deficiência PROAAf": "PCD",
+"Pessoa com Deficiência": "PCD",
+"Reserva de vagas para candidatos com deficiência (PCD)": "PCD",
 "Candidatos com deficiência que cursaram todo o ensino médio em escolas públicas.": "PCD + EP",
 "Candidatos com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PCD + EP",
 "com deficiência que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PCD + EP",
 "Candidatos com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PCD + RENDA + EP",
 "com deficiência que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PCD + RENDA + EP",
+"Candidatos com deficiência, transtorno do espectro autista e altas habilidades que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.": "PCD + RENDA + EP",
 "Candidatos com deficiência autodeclarados pretos ou pardos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PCD + PRETO/PARDO + EP",
 "Candidatos com deficiência autodeclarados pretos ou pardos, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PCD + PRETO/PARDO + RENDA + EP",
 "autodeclarados Pretos, Pardos e Indígenas": "PPI",
+"A2 - Candidatos negros, indígenas e quilombolas com comprovação de carência socioeconômica": "PPI/QUILOMBOLA + RENDA",
+"Candidato (s) NEGROS, INDÍGENAS OU QUILOMBOLAS COM COMPROVAÇÃO DE CARÊNCIA SOCIOECONÔMICA": "PPI/QUILOMBOLA + RENDA",
+"Candidatos Negros ou Indígenas ou Quilombolas com comprovação de carência socioeconômica": "PPI/QUILOMBOLA + RENDA",
 "Candidatos negros, indígenas ou oriundos de comunidades quilombolas com comprovação de carência socioeconômica.": "PPI/QUILOMBOLA + RENDA",
 "Candidatos autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PPI + EP",
 "Candidatos que tenha cursado integral e exclusivamente os ensinos fundamental e médio em estabelecimentos da rede pública de ensino e que se autodeclarem negros.": "PPI + EP",
@@ -66,6 +82,7 @@ modNomeReduzido = {
 "Candidatos com deficiência autodeclarados pretos, pardos ou indígenas que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PPI + PCD + EP",
 "Candidatos com deficiência autodeclarados pretos, pardos ou indígenas, que tenham renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo e que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012)": "PPI + PCD + RENDA + EP",
 "Negros (pretos ou pardos) (Denominada A2)": "PRETO/PARDO",
+"Negros": "PRETO/PARDO",
 "autodeclarados negros de forma irrestrita, independente do percurso de formação.": "PRETO/PARDO",
 "negros, entendidos como candidatos que possuem fenótipo que os caracterizem, na sociedade, como pertencentes ao grupo racial negro": "PRETO/PARDO",
 "Candidatos autodeclarados pretos ou pardos que, independentemente da renda (art. 14, II, Portaria Normativa nº 18/2012), tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PRETO/PARDO + EP",
@@ -78,6 +95,7 @@ modNomeReduzido = {
 "Candidatos Negros, de baixa renda que sejam egresso de escola pública:": "PRETO/PARDO + RENDA + EP",
 "Candidatos autodeclarados pretos ou pardos, com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "PRETO/PARDO + RENDA + EP",
 "Categoria I - Candidatos declarados negros, de baixa renda e egressos de escola pública": "PRETO/PARDO + RENDA + EP",
+"Candidatos Negros que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.": "PRETO/PARDO + RENDA + EP",
 "Categoria II - Candidatos declarados quilombolas, de baixa renda e egressos de escola pública": "QUILOMBOLA + RENDA + EP",
 "Categoria III - Candidatos declarados indígenas, de baixa renda e egressos de escola pública": "INDIGENA + RENDA + EP",
 "Candidato (s) Quilombolas": "QUILOMBOLA",
@@ -89,7 +107,13 @@ modNomeReduzido = {
 "Candidatos com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas (Lei nº 12.711/2012).": "RENDA + EP",
 "Candidatos que tenham cursado na rede pública os últimos quatro anos do ensino fundamental e todo o ensino médio e com comprovação de carência socioeconômica.": "RENDA + EP",
 "Categoria V - Outros candidatos de baixa renda e egressos de escola pública": "RENDA + EP",
-"com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o ensino médio em escolas públicas. (L1)": "RENDA + EP"
+"com renda familiar bruta per capita igual ou inferior a 1,5 salário mínimo, que tenham cursado integralmente o ensino médio em escolas públicas. (L1)": "RENDA + EP",
+"A3 - Candidatos que tenham cursado na rede pública os últimos quatro anos do ensino fundamental e todo o ensino médio e com comprovação de carência socioeconômica": "RENDA + EP",
+"Candidatos que tenham cursado na rede pública os últimos quatro anos do ensino fundamental e todo o ensino médio e com comprovação de carência socioeconômica": "RENDA + EP",
+"Pessoas Transgêneras em situação de Vulnerabilidade Econômica.": "TRANS",
+"transexuais, travestis e transgêneros": "TRANS",
+"Pessoas Transgêneras, independentemente de renda familiar": "TRANS",
+"Candidatos Transexuais, travestis e transgêneros que tenham cursado todo o 2º Ciclo do Ensino Fundamental e o Ensino Médio exclusivamente em escola pública, que tenham renda bruta familiar mensal inferior ou igual a 04 (quatro) vezes o valor do salário mínimo nacional vigente no ato da matrícula e que não possuam título de graduação.": "TRANS + RENDA + EP"
 }
 
 class Aluno:
@@ -98,7 +122,7 @@ class Aluno:
 
         # Reduces modality names based on the modNomeReduzido dict
         for k, v in modNomeReduzido.items():
-            if self.modNome == k:
+            if self.modNome.lower() == k.lower():
                 self.modNome = v
                 break
 
@@ -134,10 +158,10 @@ class Curso:
 
         return "\n".join(s+alunos)
 
-t0 = time()
-
 directory = "data"
 filename = input("Filename (without extension): /{}/".format(directory)).strip()
+
+t0 = time()
 
 ##################################################
 
