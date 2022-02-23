@@ -1,5 +1,7 @@
 # Dados SiSU 2020
 
+## Este repositório foi migrado para o repositório [sisu-data](https://github.com/kanegaegabriel/sisu-data), com melhorias nos scripts, dados e documentações.
+
 ## Arquivos .csv
 
 **[Lista de Cursos](https://raw.githubusercontent.com/KanegaeGabriel/sisu-2020-data/master/all_courses.csv)**
